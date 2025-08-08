@@ -1,0 +1,203 @@
+---
+title: "Cm Connectivity Figures"
+author: "Jaime Rpo"
+date: "2025-08-04"
+output: html_document
+---
+```{r}
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+library(viridis)
+library(paletteer)
+library(ggthemes)
+library(pals)
+library(forcats)
+library(ggalluvial)
+library(hrbrthemes)
+library(circlize)
+library(kableExtra)
+library(igraph)
+library(ggraph)
+library(colormap)
+library(patchwork)
+library(networkD3)
+```
+
+```{r}
+# Reading files 
+
+data <- read.csv("Analysis.csv", head = T, sep =  ",") # Edited with number of ind. + sampling technique  #
+data <- data %>% replace(is.na(.), 0)
+View(data)
+
+
+
+#### DELETING REPETED ARTICLES, LEAVING A UNIQU ENTRANCE PERO PUBLICATION ###
+
+data_unique <- data %>% distinct(ReviewID, .keep_all=TRUE)
+view(data_unique)
+```
+
+
+```{r}
+# Summarize Data
+
+publications_summary <- data_unique %>%
+  mutate(FiveYearPeriod = cut(Publication.Year, breaks = seq(1989, 2026, by = 5), include.lowest = TRUE, include.highest = FALSE, labels = FALSE)) %>%
+  group_by(Basin, FiveYearPeriod) %>%
+  summarize(TotalPublications = sum(N..Pub), stat = "identity")
+
+publications_summary
+
+```
+
+```{r}
+
+# Figure 1: Plot Green Turtle Connectivity Literature by Year
+
+F1 <- ggplot(publications_summary, aes(x = as.factor(FiveYearPeriod), y = TotalPublications, fill = Basin)) + 
+  geom_bar( stat = "identity", position = "dodge") +
+  theme_classic() +
+  scale_x_discrete(labels = c("1990-1994", "1995-1999", "2000-2004", "2005-2009", "2010-2014", "2015-2019", "2020-2022")) + 
+  theme(axis.text.x=element_text(angle=45,hjust=1, size = 20),
+        axis.title.x = element_blank(),
+        axis.text.y=element_text(size = 20),
+        axis.title = element_text(size = 20),
+        panel.grid.minor = element_blank()) +
+  ylab("Number of published studies") +
+  scale_fill_brewer( palette = "YlGnBu") +
+  scale_y_continuous(breaks = seq(0, 16, 2), limits = c(0,16)) 
+
+F1
+
+```
+
+
+```{r}
+ggsave("Figure 1. Green turtle published literature 1990-2022.png", F1, height= 9, width= 16, dpi = 300)
+```
+
+### SANKEY PLOT###
+```{r}
+
+snk <- read.csv("Sankey.csv", head = T, sep =  ",")
+
+snk$RMU_from <- as.character(snk$RMU_from)
+
+snk1 <-  subset(snk, RMU_from != "0")
+factor(sort(snk1$RMU_from))
+
+
+snk1$RMU_from <- fct_relevel(snk1$RMU_from,
+                             "1","2","3","4","5","6","7","8","9","10","11")
+                      
+snk$RMU_from <- fct_relevel(snk$RMU_from,
+                             "0","1","2","3","4","5","6","7","8","9","10","11")
+
+F4 <- ggplot(data = snk1,
+       aes(axis1 = Nesting.Habitat, axis2 = Foraging.Habitat, y = SiteNumber)) +
+  geom_alluvium(aes(fill = RMU_from)) +
+  geom_stratum() +
+  #geom_text(stat = "stratum",
+           #aes(label = after_stat(stratum))) +
+  scale_x_discrete(limits = c("Survey", "Response"),
+                   expand = c(0.01, 0.5)) +
+  guides(fill = guide_legend( title = "RMU", theme(legend.title.position = "left", face="bold"))) +
+   theme_void() +
+  scale_fill_manual(values =  c("#440154FF","#404688FF","#31688BFF","#287C8BFF","#1F9A8AFF","#27AD81FF","#47C16EFF","#75D054FF","#AADC32FF","#C7E020FF", "#FDE725FF"), labels = c("North Atlantic", "South Atlantic", "Mediterranean", "Northwest Indian", "Southwest Indian", "East Indian and Southeast Asia", "Southwest Pacific", "West Central Pacific", "North Central Pacific", "South Central Pacific", "East Pacific"))+
+  theme(legend.position = "bottom")
+
+F4
+```
+
+```{r}
+ggsave("Figure 4a.Green turtles migratory and connectivity movement description.png",F4, dpi = 300)
+```
+
+### CHORD PLOT ###
+```{r}
+data <-  read.csv("Chorde.csv",header=TRUE)
+
+index <- is.na(data)
+data[index] <- 0
+
+
+# short names
+colnames(data) <- c("Non-RMU", "North Atlantic", "South Atlantic", "Mediterranean", "Northwest Indian", "Southwest Indian", "East Indian and Southeast Asia", "Southwest Pacific", "West Central Pacific", "North Central Pacific", "South Central Pacific", "East Pacific")
+
+rownames(data) <- colnames(data)
+
+# I need a long format
+data_long <- data %>%
+  rownames_to_column %>%
+  gather(key = 'key', value = 'value', -rowname)
+
+# parameters
+circos.clear()
+circos.par(start.degree = 90, gap.degree = 4, track.margin = c(-0.1, 0.1), points.overflow.warning = FALSE)
+par(mar = rep(0, 4))
+
+
+
+chordDiagram(data_long, grid.col = c("black","#440154FF","#404688FF","#31688BFF","#287C8BFF","#1F9A8AFF","#27AD81FF","#47C16EFF","#75D054FF","#AADC32FF","#C7E020FF", "#FDE725FF"), annotationTrack = c("name", "grid"), annotationTrackHeight = c(0.09, 0.03))
+#, circos.text(facing = "clockwise", niceFacing = TRUE, adj = c(0, 0.5)))
+
+
+
+# Base plot
+#chordDiagram(
+ # x = data_long, 
+  #grid.col = c("grey20", "#440154FF","#3B528BFF","#31688BFF","#287C8EFF","#21908CFF","#27AD81FF","#47C16EFF","#75D054FF","#AADC32FF","#C7E020FF", "#FDE725FF"),
+  #transparency = 0.25,
+  #directional = 1,
+  #direction.type = c("arrows", "diffHeight"), 
+  #diffHeight  = -0.04,
+  #annotationTrack = "grid", 
+  #annotationTrackHeight = c(0.05, 0.1),
+  #link.arr.type = "big.arrow", 
+  #link.sort = TRUE, 
+  #link.largest.ontop = TRUE)
+
+
+```
+
+```{r}
+dev.copy(jpeg,'Figure 4b.Chord Plot.png', width=8, height=8, units="in", res=500)
+```
+
+## Violin plot ##
+```{r}
+
+dat <- read.csv("coords_from.csv", head = T, sep =  ",")
+
+mydat <- na.omit(dat)
+
+mydat <- na.omit(dat$RMU_From)
+
+RMU <- as.factor(dat$RMU_From)
+
+v <- dat %>%
+    ggplot( aes(x=RMU, y=Distance, fill=RMU)) +
+    geom_violin(width=1.4) +
+    geom_boxplot(width=0.1, color="black", alpha=0.2) +
+    scale_fill_manual(values = alpha( c("black", "#440154FF","#404688FF","#31688BFF","#287C8BFF","#1F9A8AFF","#27AD81FF","#47C16EFF","#75D054FF","#AADC32FF","#C7E020FF", "#FDE725FF"), 0.35 )) +
+    scale_x_discrete( labels=c("Out of RMU Jurisdiction", "North Atlantic", "South Atlantic","Mediterranean", "Northwest Indian", "Southwest Indian", "East Indian and Southeast Asia", "Southwest Pacific", "West Central Pacific", "North Central Pacific", "South Central Pacific", "East Pacific")) +  
+  theme_ipsum() +
+  theme(
+      legend.position="none") +
+      theme(axis.text.x = element_text(face="plain", color="black", size=10, angle=30, hjust = 1)) +
+  labs(x = "RMU", y = "Migrating Distance (km)",size = 30, face = "bold", vjust = 0.0) +
+  #theme(axis.title = element_text(size = 20,
+                                  #face = "bold")) +
+   scale_y_continuous(breaks = seq(0, 6000, by = 1000))
+      
+v
+
+
+```
+
+```{r}
+ggsave("Figure 4c.Violin Plot.Green turtles migratory and connectivity movement description.png", width = 16, height = 9  , dpi = 300)
+```
+

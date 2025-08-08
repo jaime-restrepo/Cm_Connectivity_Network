@@ -1,0 +1,223 @@
+---
+title: "Cm Connectivity Network"
+author: "Jaime Rpo"
+date: "2025-08-04"
+output: html_document
+---
+```{r}
+pacman::p_load(tidyverse, assertthat, dplyr, purrr, stringr, igraph, ggraph, ggmap,rnaturalearth,rnaturalearthdata, extrafont, maps, sf, rgdal, here)
+
+library(rnaturalearth,rnaturalearthdata)
+library("sf")
+```
+
+```{r}
+longlat <- "+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0" # set CRS
+```
+
+```{r}
+spp <- "CHMY"
+
+# load georeferenced sites & routes
+
+sites <- read_csv(here(paste0("georeferenced_sites_CHMY_draft.csv")))
+metasites <- read_csv(here(paste0(spp, "_metasites_testing_dcd.csv")))
+metaroutes  <- read_csv(here(paste0(spp, "_metaroutes_testing_dcd.csv")))
+
+```
+
+```{r}
+species <- metasites$CommonName[1] 
+activitytypes <- c("SPA", "NES", "BRE", "FEE", "STA", "STO",  "MIG", "WIN", "NBR", "OBS", "HOM")
+fullactivity <- c("Spawning", "Nesting", "Breeding", "Feeding/Foraging", "Staging", "Stopover",  "Migrating", "Wintering", "Nonbreeding", "Observations", "Homerange")
+
+```
+
+```{r}
+#Prepare data for input to the igraph graph structure (i.e., the network model)  
+
+## Usng the Metasites' file
+nodes <- with(metasites, data.frame(id=MetaUniqueID, lon=MeanLon, lat=MeanLat, radius=MaxRadius, type = factor(BehaviorForSymbology, levels = activitytypes) , activities = SiteType, num = MinNumIndividuals, SiteLocation = MetaUniqueID, Basin = Basin))
+
+#### Using the Sites' file
+
+#nodes <- with(sites, data.frame(id=UniqueID, lon=Long, lat=Lat, radius=Radius, type = factor(Behaviour, levels = activitytypes), activities = Activities, SiteLocation = UniqueID, Basin = Basin))
+
+
+# Create nodes sf object
+nodes_sf <- nodes %>% 
+  st_as_sf(coords = c("lon", "lat"))
+
+# Create buffer sf object
+buffer_sf <- st_buffer(nodes_sf, dist = nodes_sf$radius)
+
+st_crs(buffer_sf) <- longlat
+st_crs(nodes_sf) <- longlat
+
+# Create edges
+cropped_metasites <- metasites %>% 
+  dplyr::select(MetaUniqueID, MeanLat, MeanLon)
+
+edges <- metaroutes %>% 
+  dplyr::mutate(ID = row_number()) %>% 
+  dplyr::select(ID, MetaUniqueID_from, MetaUniqueID_to) %>% 
+  pivot_longer(cols = c("MetaUniqueID_from", "MetaUniqueID_to"),
+               names_to = "Meta",
+               values_to = "MetaUniqueID") %>% 
+  left_join(., cropped_metasites)
+
+filt <- edges %>% 
+  dplyr::select(!MetaUniqueID) %>% 
+  pivot_wider(names_from = "Meta", values_from = c("MeanLat", "MeanLon")) %>% 
+  filter(((-180 < MeanLon_MetaUniqueID_from) & (MeanLon_MetaUniqueID_from < 0)) & ((180 > MeanLon_MetaUniqueID_to) & (MeanLon_MetaUniqueID_to > 0))) %>% 
+  filter(!ID %in% c(180))
+```
+
+```{r}
+filt_trial1 <- filt %>% 
+  dplyr::mutate(MeanLon_MetaUniqueID_to = -179.99) %>% 
+  pivot_longer(cols = c("MeanLon_MetaUniqueID_from", "MeanLon_MetaUniqueID_to"), names_to = "filler1",
+               values_to = "MeanLon") %>% 
+  select(ID, MeanLon)
+
+filt_trial2 <- filt %>% 
+  pivot_longer(cols = c("MeanLat_MetaUniqueID_from", "MeanLat_MetaUniqueID_to"), names_to = "filler1",
+               values_to = "MeanLat") %>% 
+  select(MeanLat)
+
+filt_trial3 <- filt %>% 
+  dplyr::mutate(MeanLon_MetaUniqueID_from = 179.99) %>% 
+  pivot_longer(cols = c("MeanLon_MetaUniqueID_from", "MeanLon_MetaUniqueID_to"), names_to = "filler1",
+               values_to = "MeanLon") %>% 
+  dplyr::mutate(ID = 500 + ID) %>% #another hack to change the IDs...
+  select(ID, MeanLon)
+
+filt_trial4 <- filt %>% 
+  pivot_longer(cols = c("MeanLat_MetaUniqueID_from", "MeanLat_MetaUniqueID_to"), names_to = "filler1",
+               values_to = "MeanLat") %>% 
+  select(MeanLat)
+```
+
+```{r}
+filt_trial_a <- bind_cols(filt_trial1, filt_trial2)
+filt_trial_b <- bind_cols(filt_trial3, filt_trial4)
+
+filt_trial <- bind_rows(filt_trial_a, filt_trial_b)
+  
+filt_string <- unique(filt$ID)
+  
+edges_sf <- edges %>% 
+  filter(!ID %in% filt_string) %>% 
+  dplyr::select(-Meta, -MetaUniqueID) %>% 
+  bind_rows(., filt_trial) %>% 
+  st_as_sf(coords = c("MeanLon", "MeanLat")) %>% 
+  group_by(ID) %>% 
+  summarize(ID = unique(ID)) %>% 
+  #st_union() %>% 
+  st_cast("LINESTRING")
+
+st_crs(edges_sf) <- longlat
+
+```
+
+```{r}
+land <- rnaturalearth::ne_countries(scale = 'large', returnclass = 'sf') %>% 
+  st_transform(crs = longlat)
+
+# reading the shape file #
+
+RMU <- st_read("CM_RMU_20231020.shp")
+plot(RMU)
+
+RMU$species
+
+RMU_Cm <- RMU [, 2,14]
+RMU_Cm
+View(RMU_Cm)
+
+```
+
+```{r}
+colors <- c("NES" = "#e3e418ff",
+            "BRE" = "#e3e418ff",
+            "FEE" = "#21908cff",
+            "STO" = "#21908cff",
+            "MIG" = "#253494",
+            "OBS" = "#253494",
+            "HOM" = "#253494")
+
+mapcoords <- coord_fixed(xlim = c(-110, -60), ylim = c(0, 80))
+
+Global_plot <- ggplot() + 
+                geom_sf(data = land, fill = "white") +
+                geom_sf(data = RMU_Cm, fill = "#2a788eff", alpha = 0.18) +
+                #geom_sf(data = nodes_sf, aes(color = type),  alpha = 0.6 , size = 2.6) + 
+                      #scale_color_manual(name = "Node type", values = colors) +
+                      #guides(color = "none", size = "none") +
+                geom_sf(data = buffer_sf, aes(fill = type), alpha = 0.8, color = "black", size = 0.1) +
+                               scale_fill_manual(name = "Node type", values = colors) +
+                               guides(color = "none", size = "none") +
+                geom_sf(data = edges_sf, linewidth = 0.3) +
+                theme(panel.background = element_rect(fill = "grey"), 
+                     panel.grid.major = element_blank(), panel.grid.minor = element_blank() ,
+                legend.position = "none" ) 
+
+Global_plot
+
+
+
+```
+
+```{r}
+ggsave(filename = "Cm_Metasites.png", width = 15, height = 7, dpi = 600)
+
+```
+
+
+```{r}
+
+###################          REGIONAL MAPS         ##########################
+
+
+
+############## CARIBBEAN SEA  ###############
+sf_use_s2(FALSE)
+Map <- ne_countries(scale = "large",type = 'countries', returnclass = "sf")
+Map_Car <- st_crop(Map , xmin = -100, xmax = -50, ymin = 5, ymax = 38)
+
+car <- subset(nodes_sf, Basin == "ATL")
+
+buffer_car <- subset(buffer_sf, Basin == "ATL")
+crop_buffer_car <- st_crop(buffer_car , xmin = -100, xmax = -50, ymin = 5, ymax = 38)
+
+car_RMU_Cm <- st_crop(RMU_Cm ,xmin = -100, xmax = -50, ymin = 5, ymax = 38)
+
+crop_edges_sf <- st_crop(edges_sf , xmin = -100, xmax = -50, ymin = 5, ymax = 38)
+
+
+Caribbean_plot <- ggplot() +
+                    geom_sf(data = Map_Car, fill = "white") +
+                    geom_sf(data = car_RMU_Cm, fill = "#2a788eff", alpha = 0.18) +
+                    #geom_sf(data = car, aes(color = type),  alpha = 0.6 , size = 2.6) + 
+                    #scale_color_manual(name = "Node type", values = colors) +
+                    #guides(color = "none", size = "none") +
+  
+                    geom_sf(data = crop_buffer_car, aes(fill = type), alpha = 0.18, color = "black", size = 0.1)+
+                    scale_fill_manual(name = "Node type", values = colors) +
+                    guides(color = "none", size = "none") +
+                    geom_sf(data = crop_edges_sf, linewidth = 0.8) +
+                    theme(panel.background = element_rect(fill = "grey"), 
+                    panel.grid.major = element_blank(), panel.grid.minor = element_blank() ,
+                    legend.position = "none", axis.title.x = element_blank(), axis.text.x = element_blank(),
+                    axis.ticks.x = element_blank(), axis.title.y = element_blank(), axis.text.y = element_blank(),
+                    axis.ticks.y = element_blank())  #c(0.08, 0.25),
+
+
+Caribbean_plot
+
+```
+
+```{r}
+ggsave(filename = "Cm_Caribbean_Network.png", width = 15, height = 7, dpi = 600)
+```
+

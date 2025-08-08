@@ -1,0 +1,526 @@
+Species,CommonName,ReviewID,MetaSiteID,Duplicate,Publication.Year,Radius,Sampling,Sampling Technique,Activities,Sat F,Sat M,Sat U,Sat A,Sat AB,Sat AI,Sat I,Sat J,Sat Sub,Sat Unk,F,M,U,A,AB,AI,I,J,SUB,UNK,Basin,Long,Lat,N. Pub
+CHMY,Green,23HBZAII_Lima_etal_1999_Chmy,CG,FALSE,1999,5,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,1,,,,,,,1,ATL,-82.7,14.3,1
+CHMY,Green,23HBZAII_Lima_etal_1999_Chmy,CH,FALSE,1999,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,1,,,,,,,1,ATL,-39.7,-2.7,1
+CHMY,Green,25FVJE98_Hammerschlag_etal_2016_Chmy,AA,FALSE,2016,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,10,,,,,10,,,,,10,,,,10,,,,,,PAC,144.033,-11.583,1
+CHMY,Green,25FVJE98_Hammerschlag_etal_2016_Chmy,CE,TRUE,2016,5,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE,,,,,,,,,,,10,,,,10,,,,,,PAC,144.033,-11.583,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,AB,FALSE,2013,1,Flipper,Mark-Recapture,NES,,,,,,,,,,,10,,,,10,,,,,,IND,80.851,6.045,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,AB,TRUE,2013,1,Argos,Satellite Telemetry,NES,10,,,,10,,,,,,10,,,,10,,,,,,IND,80.851,6.045,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,AB,FALSE,2013,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,8,,,,,8,,,,,IND,80.85,6.04,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,AB,FALSE,2013,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,1,,,,,1,,,,,IND,80.308,5.993,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,AB,FALSE,2013,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,1,,,,,1,,,,,IND,81.218,6.165,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,AB,FALSE,2013,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,1,,,,,1,,,,,IND,80.986,6.093,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,AB,FALSE,2013,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,3,,,3,,,,,,,IND,80.731,5.903,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,EG,FALSE,2013,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,IND,79.255,9.117,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,EH,FALSE,2013,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,IND,74.481,14.009,1
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,EI,FALSE,2013,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,73.063,8.287,1
+CHMY,Green,2DIWCUSF_Yasuda_etal_2006_Chmy,AC,FALSE,2006,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,94,,,,94,,,,,,IND,97.647,8.48,1
+CHMY,Green,2DIWCUSF_Yasuda_etal_2006_Chmy,AC,TRUE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,94,,,,94,,,,,,IND,97.647,8.48,1
+CHMY,Green,2DIWCUSF_Yasuda_etal_2006_Chmy,AC,TRUE,2006,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,17,,,,17,,,,,,IND,97.647,8.48,1
+CHMY,Green,2DIWCUSF_Yasuda_etal_2006_Chmy,AC,FALSE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,7,,,,7,,,,,,2,,,2,,,,,,,IND,98.239,9.007,1
+CHMY,Green,2DIWCUSF_Yasuda_etal_2006_Chmy,CW,TRUE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,5,,,5,,,,,,,IND,92.844,11.974,1
+CHMY,Green,2G3JABPA_McClellan_etal_2009_Chmy,CU,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,7,,,,,7,,,,,7,,,,,,,7,ATL,-75.5,35.3,1
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,AD,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,6,,,,6,,,,,,6,,,6,,,,,,,PAC,114.366,10.377,1
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,CO,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,115.05,5.197,1
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,CO,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,3,,,3,,,,,,,PAC,117.994,9.354,1
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,CO,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,119.197,5.57,1
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,EJ,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,122.391,17.485,1
+CHMY,Green,2WPCNKV4_Cheng_etal_2013_Chmy,AE,FALSE,2013,1,ADVANCED DIVE BEHAVIOR TAG,Dive Loggers,NES,10,,,,10,,,,,,4,,,,4,,,,,,PAC,119.489,23.356,1
+CHMY,Green,2WPCNKV4_Cheng_etal_2013_Chmy,AF,FALSE,2013,1,ADVANCED DIVE BEHAVIOR TAG,Dive Loggers,NES,,,,,,,,,,,6,,,,6,,,,,,PAC,121.551,22.026,1
+CHMY,Green,2XCHJ488_Seminoff_etal_2002_Chmy,CS,FALSE,2002,1,RADIO TAG,Acoustic Telemetry,FEE,,3,9,,,,,,,,,1,2,,,,,,,3,PAC,-113.55,29.013,1
+CHMY,Green,2XCHJ488_Seminoff_etal_2002_Chmy,CS,FALSE,2002,1,RADIO TAG,Acoustic Telemetry,FEE,,,,,,,,,,,,1,7,,,,,,,8,PAC,-113.53,28.975,1
+CHMY,Green,2XCHJ488_Seminoff_etal_2002_Chmy,CS,TRUE,2002,1,RADIO TAG,Acoustic Telemetry,FEE,,,,,,,,,,,,1,,,,,,,,1,PAC,-113.503,28.909,1
+CHMY,Green,2XCHJ488_Seminoff_etal_2002_Chmy,CS,TRUE,2002,1,RADIO TAG,Acoustic Telemetry,FEE,,,,,,,,,,,,1,2,,,,,,,3,PAC,-113.488,28.995,1
+CHMY,Green,39W3A5US_Luschi_etal_1998_Chmy,AG,TRUE,1998,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,6,,,,6,,,,,,6,,,,6,,,,,,ATL,-14.4,-7.9,1
+CHMY,Green,39W3A5US_Luschi_etal_1998_Chmy,CH,FALSE,1998,5,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG;OBS,,,,,,,,,,,5,,,5,,,,,,,ATL,-34.8,-7,1
+CHMY,Green,39W3A5US_Luschi_etal_1998_Chmy,EK,FALSE,1998,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-18,-9,1
+CHMY,Green,3FNIQRK8_Shimada_etal_2016_Chmy,CE,FALSE,2016,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,19,3,,22,,,,,,,4,,,4,,,,,,,PAC,142,-10,1
+CHMY,Green,3FNIQRK8_Shimada_etal_2016_Chmy,CN,FALSE,2016,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,PAC,152,-24,1
+CHMY,Green,3FNIQRK8_Shimada_etal_2016_Chmy,CN,FALSE,2016,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,152.5,-25,1
+CHMY,Green,3FNIQRK8_Shimada_etal_2016_Chmy,CX,TRUE,2016,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,9,2,,11,,,,,,,PAC,153,-27,1
+CHMY,Green,3FNIQRK8_Shimada_etal_2016_Chmy,EL,FALSE,2016,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,,1,,1,,,,,,,PAC,146.5,-19,1
+CHMY,Green,3FNIQRK8_Shimada_etal_2016_Chmy,EM,FALSE,2016,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,PAC,146,-18,1
+CHMY,Green,43RSEFSA_Brand-Gardner_etal_1999_Chmy,CX,FALSE,1999,1,FLIPPER TAG,Mark-Recapture,FEE,,,,,,,,,,,,,41,,,,,41,,,PAC,153.41,-27.34,1
+CHMY,Green,43RSEFSA_Brand-Gardner_etal_1999_Chmy,CX,TRUE,1999,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,4,,,,4,,,,,,,,,,,,,,PAC,153.41,-27.34,1
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,AH,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,2,,,,2,,,,,,1,,,1,,,,,,,ATL,-61.7,17.6,1
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,AI,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,ATL,-71.1,21.4,1
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,AI,FALSE,2015,1,SIGHTINGS (NO TAG/SAMPLE),Sightings,NES,,,,,,,,,,,22,,,,22,,,,,,ATL,-71.5,21.8,1
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,AI,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-71.4,21.7,1
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,AI,TRUE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-71.5,21.8,1
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,EN,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,-64.7,17.7,1
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,AJ,FALSE,2014,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,10,,,,10,,,,,,PAC,114.136,22.192,1
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,AJ,TRUE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,10,,,,10,,,,,,PAC,114.136,22.192,1
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,CP,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,3,,,,3,,,,,,1,,,1,,,,,,,PAC,110.262,20.238,1
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,CP,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,110.579,18.848,1
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,CP,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,107.739,20.134,1
+CHMY,Green,5MFUG3SV_Nelson_1994_Chmy,CF,FALSE,1994,1,ACOUSTIC/SONIC TAG (TELEMETRY); RADIO TAG,Acoustic Telemetry,OBS,,,7,,,,,7,,,,,7,,,,,1,,6,ATL,-80.5,28.3,1
+CHMY,Green,69G2XFXH_Hays_etal_2001_Chmy,AG,TRUE,2001,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,1,,,,1,,,,,,1,,,,1,,,,,,ATL,-14.4,-7.9,1
+CHMY,Green,69G2XFXH_Hays_etal_2001_Chmy,CH,FALSE,2001,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-34.8,-7,1
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,AK,TRUE,2008,1,Argos; GLS,Satellite Telemetry,NES,,,,,,,,,,,13,,,,13,,,,,,ATL,33.78,35.5,1
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,AK,TRUE,2008,1,Argos; GLS,Satellite Telemetry,OBS,9,,,,9,,,,,,9,,,,6,9,,,,,ATL,33.7,34.9,1
+CHMY,Green,76V7QMUX_McClellan_and_Read_2010_Chmy,CU,FALSE,2010,1,ACOUSTIC/SONIC TAG (TELEMETRY); SATELLITE TAG (ARGOS),Combined Techniques,FEE,10,,,,,,,10,,,,,10,,,,,10,,,ATL,-75.5,35.2,1
+CHMY,Green,76V7QMUX_McClellan_and_Read_2010_Chmy,CU,TRUE,2010,1,SIGHTINGS (NO TAG/SAMPLE),Sightings,FEE,,,,,,,,,,,,,9,,,,,9,,,ATL,-75.5,35.2,1
+CHMY,Green,76V7QMUX_McClellan_and_Read_2010_Chmy,CU,FALSE,2010,1,ACOUSTIC/SONIC TAG (TELEMETRY); SATELLITE TAG (ARGOS),Combined Techniques,OBS,,,,,,,,,,,,,1,,,,,1,,,ATL,-76.25,34.5,1
+CHMY,Green,7KJ52Z8K_Naro-Maciel_etal_2018_Chmy,DR,FALSE,2018,1,FLIPPER TAG; PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,FEE;OBS,,,,,,,,,,,32,45,478,123,,,,239,193,,PAC,-162.08,5.883,1
+CHMY,Green,7KJ52Z8K_Naro-Maciel_etal_2018_Chmy,DR,TRUE,2018,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;OBS,1,15,2,,,,,,,,,,,,,,,,,,PAC,-162.08,5.883,1
+CHMY,Green,7KJ52Z8K_Naro-Maciel_etal_2018_Chmy,EO,FALSE,2018,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,-157.503,1.948,1
+CHMY,Green,7KJ52Z8K_Naro-Maciel_etal_2018_Chmy,EP,FALSE,2018,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,1,,,,,,,1,PAC,162.917,5.35,1
+CHMY,Green,7KJ52Z8K_Naro-Maciel_etal_2018_Chmy,EQ,FALSE,2018,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,1,,1,,,,,,,PAC,-147.602,8.487,1
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,CF,FALSE,2015,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,24,,,,,24,,,,,15,,,,,15,,,ATL,-85,27,1
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,CF,TRUE,2015,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,4,,,,,4,,,ATL,-85,24,1
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,CQ,FALSE,2015,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,2,,,,,2,,,ATL,-91,23,1
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,DS,FALSE,2015,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,3,,,,,3,,,ATL,-92,28.5,1
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,DS,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,24,,,,,24,,,ATL,-88.7,29.5,1
+CHMY,Green,8724N55R_Clyde-Brockway_etal_2019_Chmy,AL,FALSE,2019,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,BRE,,,,,,,,,,,202,,,,202,,,,,,PAC,-86.009,10.585,1
+CHMY,Green,8724N55R_Clyde-Brockway_etal_2019_Chmy,AL,TRUE,2019,1,POP-UP SATELLITE ARCHIVAL TAG (PSAT); SATELLITE TAG (ARGOS),Satellite Telemetry,BRE,21,,,,,,,,,,,,,,202,,,,,,PAC,-86.009,10.585,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,4,,,,,4,,,,,1,,,,,1,,,PAC,-156.88,20.926,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,3,,,,,3,,,PAC,-156.458,20.608,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,1,,,PAC,-156.3,20.6,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,PAC,-156.422,20.575,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,PAC,-156.616,21.057,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,PAC,-156.713,20.897,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,PAC,-156.697,20.966,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,,,1,PAC,-156.317,20.963,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,CM,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,PAC,-156.511,20.97,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,DC,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,,,1,PAC,-157.799,21.234,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,DC,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,,,1,PAC,-158.073,21.281,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,ER,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,PAC,-155.748,18.893,1
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,ES,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,1,,,PAC,-160.2,18.1,1
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,AM,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;NES,12,,,,,12,,,,,12,,,,12,,,,,,PAC,-90.5,-0.5,1
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,CK,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,-87.738,12.899,1
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,CK,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,-82.473,8.042,1
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,DT,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,-79.337,8.432,1
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,ET,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,3,,,3,,,,,,,PAC,-102,-4,1
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,EU,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,1,,,1,,,,,,,PAC,-92,-3,1
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,EV,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,3,,,3,,,,,,,PAC,-94,-10,1
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,AN,FALSE,2013,1,Argos,Satellite Telemetry,NES,4,,,2,2,,,,,,2,,,,2,,,,,,IND,48.777,28.818,1
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,AN,FALSE,2013,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,1,,,,,1,,,,,IND,48.46,28.5,1
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,AN,FALSE,2013,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,IND,48.513,28.502,1
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,AN,FALSE,2013,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,2,,,2,,,,,,,IND,48.492,29.072,1
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,AN,FALSE,2013,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,IND,48.33,29.459,1
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,AN,FALSE,2013,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,48.993,27.889,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,AO,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,11,,,,11,,,,,,7,,,,7,,,,,,ATL,-82.8,24.6,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,AO,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,7,,,,7,,,,,,ATL,-82.9,24.6,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,AO,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,,,,,,,,,,,6,,,,,6,,,,,ATL,-82.8,24.7,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,AO,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,,,,,,,,,,,3,,,,,3,,,,,ATL,-82.9,24.6,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,AO,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,,,,,,,,,,,2,,,,,2,,,,,ATL,-82.8,24.6,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,AO,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,5,,,5,,,,,,,ATL,-82,24.5,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,AO,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,3,,,3,,,,,,,ATL,-82.8,24.6,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,CF,FALSE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,-81.4,25.2,1
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,CF,FALSE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,-80.25,25.25,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,AK,TRUE,2015,1,Argos,Satellite Telemetry,NES,22,,,,22,,,,,,22,,,,22,,,,,,ATL,33.78,35.5,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,AP,FALSE,2015,1,Argos,Satellite Telemetry,NES,8,,,,8,,,,,,8,,,,8,,,,,,ATL,35.7,36.7,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,AQ,TRUE,2015,1,Argos,Satellite Telemetry,NES,3,,,,3,,,,,,3,,,,3,,,,,,ATL,34.7,32.1,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,AR,FALSE,2015,1,Argos,Satellite Telemetry,NES,1,,,,1,,,,,,1,,,,1,,,,,,ATL,35.7,35.5,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,CL,FALSE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,ATL,30.98,36.55,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,CL,TRUE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,32.84,34.63,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,CL,TRUE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,34.3,36.6,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,CL,FALSE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,35.81,34.45,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,CR,FALSE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,8,,,8,,,,,,,ATL,23.13,32.62,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,CR,FALSE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,25.24,31.75,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,CR,FALSE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,7,,,7,,,,,,,ATL,18.95,31.49,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,DD,FALSE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,33.21,31.17,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,DH,FALSE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,11.5,33.1,1
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,DU,FALSE,2015,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,29.12,30.91,1
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,AS,TRUE,2016,1,Argos,Satellite Telemetry,NES,26,,,,26,,,,,,17,,,,17,,,,,,ATL,-53.9,5.7,1
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,AS,TRUE,2016,1,Argos,Satellite Telemetry,NES,,,,,,,,,,,8,,,,8,,,,,,ATL,-53.984,5.779,1
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,AS,FALSE,2016,1,PIT,Mark-Recapture,NES,,,,,,,,,,,1144,,,,1144,,,,,,ATL,-53.9,5.7,1
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,AS,TRUE,2016,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,4,,,,,4,,,,,ATL,-53.95,5.78,1
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,CT,FALSE,2016,5,Argos,Satellite Telemetry,OBS,,,,,,,,,,,9,,,,,9,,,,,ATL,-53.95,5.78,1
+CHMY,Green,8PQMCK7V_Shimada_etal_2021_Chmy,AT,FALSE,2021,1,SATELLITE TAG (GPS),Satellite Telemetry,BRE,30,,,,30,,,,,,20,,,,7,13,,,,,IND,36.485,25.618,1
+CHMY,Green,8PQMCK7V_Shimada_etal_2021_Chmy,AU,FALSE,2021,1,SATELLITE TAG (GPS),Satellite Telemetry,BRE,,,,,,,,,,,10,,,,3,7,,,,,IND,37.616,24.241,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,AV,FALSE,2005,1,BANDING,Mark-Recapture,NES,,,,,,,,,,,46983,,,,46983,,,,,,ATL,-83.2,10.2,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,AV,TRUE,2005,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,10,,,,10,,,,,,,,,,,,,,,,ATL,-83.2,10.2,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,AV,FALSE,2005,1,BANDING,Mark-Recapture,OBS,,,,,,,,,,,354,,,,354,,,,,,ATL,-83.17,10.17,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,AV,TRUE,2005,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,8,,,,,8,,,,,ATL,-83.2,10.2,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,BT,FALSE,2005,1,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-62.75,17.39,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CF,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-82.8,24.5,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CG,FALSE,2005,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,3,,,3,,,,,,,ATL,-83.5,10.5,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CG,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,3833,,,,3833,,,,,,ATL,-83.33,13.78,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CG,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,138,,,,138,,,,,,ATL,-79.37,9.62,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CG,FALSE,2005,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,7,,,7,,,,,,,ATL,-82.45,14,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CG,FALSE,2005,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,-82.5,14.5,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CH,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-37.68,-4.22,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CI,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,104,,,,104,,,,,,ATL,-79.3,21.3,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CI,FALSE,2005,1,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-77.4,17.7,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CJ,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,45,,,,45,,,,,,ATL,-85.5,15.91,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CJ,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,32,,,,32,,,,,,ATL,-88.1,17.35,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CJ,TRUE,2005,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,,1,,,,,,ATL,-88.1,17.35,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CJ,FALSE,2005,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,,1,,,,,,ATL,-83.3,16,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CJ,FALSE,2005,1,BANDING,Mark-Recapture,OBS,,,,,,,,,,,4,,,,4,,,,,,ATL,-88.61,15.82,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CQ,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,38,,,,38,,,,,,ATL,-87.1,21.8,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CT,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-57.9,6.79,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CV,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,7,,,,7,,,,,,ATL,-70,18.1,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CV,FALSE,2005,1,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-66.4,18.5,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,CY,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,73,,,,73,,,,,,ATL,-75.6,10.5,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,DI,FALSE,2005,1,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-61.08,13.84,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,DI,FALSE,2005,1,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-61.14,14.59,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,DJ,FALSE,2005,5,BANDING,Mark-Recapture,OBS,,,,,,,,,,,30,,,,30,,,,,,ATL,-67.6,10.7,1
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,EW,FALSE,2005,1,BANDING,Mark-Recapture,OBS,,,,,,,,,,,1,,,,1,,,,,,ATL,-61.75,12.12,1
+CHMY,Green,95CLUNAR_Jang_etal_2018_Chmy,DQ,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,2,,,,,,,2,PAC,129.411,32.765,1
+CHMY,Green,95CLUNAR_Jang_etal_2018_Chmy,EX,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS;WIN,,,8,,,,,8,,,,,8,,,,7,,,,PAC,126.664,33.16,1
+CHMY,Green,95CLUNAR_Jang_etal_2018_Chmy,EY,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,,,1,PAC,122.204,32.99,1
+CHMY,Green,95CLUNAR_Jang_etal_2018_Chmy,EZ,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,,,1,PAC,130.02,35.12,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,AW,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,BRE;FEE;NES,96,,,,96,,,,,,36,,,,36,,,,,,IND,116.093,-20.501,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,AX,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,BRE;FEE;NES,,,,,,,,,,,13,,,,13,,,,,,IND,114.07,-21.8,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,AY,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,BRE;FEE;NES,,,,,,,,,,,11,,,,11,,,,,,IND,122.12,-16.85,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,AZ,FALSE,2021,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;FEE;NES,,,,,,,,,,,21,,,,21,,,,,,IND,125.097,-14.483,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,BA,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,BRE;FEE;NES,,,,,,,,,,,15,,,,15,,,,,,IND,121.78,-14.06,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,CE,TRUE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,3,,,3,,,,,,,PAC,142.124,-10.388,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,DK,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,2,,,2,,,,,,,IND,123.484,-16.216,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,DK,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,2,,,2,,,,,,,IND,123.136,-15.495,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,DK,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,1,,,1,,,,,,,IND,124.268,-15.902,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,DL,FALSE,2021,5,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,14,,,14,,,,,,,PAC,132.999,-10.028,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,DN,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,PAC,136.031,-14.729,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,DV,FALSE,2021,5,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,40,,,40,,,,,,,IND,116.311,-19.087,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,FA,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,IND,113.402,-25.655,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,FB,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,3,,,3,,,,,,,IND,122.025,-18.151,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,FC,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,6,,,6,,,,,,,IND,126.227,-13.855,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,FD,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;MIG,,,,,,,,,,,1,,,1,,,,,,,IND,129.203,-14.217,1
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,FE,FALSE,2021,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,120.631,-9.657,1
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,AC,TRUE,2002,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,2,,2,,2,,,2,,,2,,,,2,,,,,,IND,97.648,8.65,1
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,AC,FALSE,2002,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,2,,,,,2,,,IND,98.416,7.846,1
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,AC,TRUE,2002,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,98.2,9.25,1
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,CW,TRUE,2002,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,92.619,11.411,1
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,DB,FALSE,2002,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,1,,,IND,98.4,7.75,1
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,DB,FALSE,2002,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,IND,99.2,7.2,1
+CHMY,Green,9URXQNRR_Gredzens_etal_2014_Chmy,CE,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,4,,,4,,,,,,,4,,,4,,,,,,,PAC,142.1,-9.57,1
+CHMY,Green,9URXQNRR_Gredzens_etal_2014_Chmy,CN,TRUE,2014,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,6,,,6,,,,,,,6,,,5,,,,,1,,PAC,150.25,-22.25,1
+CHMY,Green,AA8D24MB_Blanco_etal_2012_Chmy,AL,FALSE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,10,,,,10,,,,,,10,,,,10,,,,,,PAC,-85.835,10.392,1
+CHMY,Green,AA8D24MB_Blanco_etal_2012_Chmy,AL,TRUE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,PAC,-86,11,1
+CHMY,Green,AA8D24MB_Blanco_etal_2012_Chmy,AL,TRUE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,PAC,-85.78,10.69,1
+CHMY,Green,AA8D24MB_Blanco_etal_2012_Chmy,CK,FALSE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,3,,,3,,,,,,,PAC,-88.24,13.02,1
+CHMY,Green,AA8D24MB_Blanco_etal_2012_Chmy,DT,FALSE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,-78.54,8.31,1
+CHMY,Green,AMV4ES3Z_Chambault_etal_2020_Chmy,BF,FALSE,2020,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;HOM,,,49,,,,,49,,,,,11,,,,,11,,,IND,40.379,-22.348,1
+CHMY,Green,AMV4ES3Z_Chambault_etal_2020_Chmy,DW,FALSE,2020,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,OBS,,,,,,,,,,,,,2,,,,,2,,,IND,43.107,-22.544,1
+CHMY,Green,AMV4ES3Z_Chambault_etal_2020_Chmy,DX,FALSE,2020,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;HOM,,,,,,,,,,,,,10,,,,,10,,,IND,47.296,-11.564,1
+CHMY,Green,AMV4ES3Z_Chambault_etal_2020_Chmy,DY,FALSE,2020,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;HOM,,,,,,,,,,,,,9,,,,,9,,,IND,45.084,-12.966,1
+CHMY,Green,AMV4ES3Z_Chambault_etal_2020_Chmy,DZ,FALSE,2020,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;HOM,,,,,,,,,,,,,10,,,,,10,,,IND,55.318,-21.33,1
+CHMY,Green,AMV4ES3Z_Chambault_etal_2020_Chmy,FF,FALSE,2020,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE;HOM,,,,,,,,,,,,,9,,,,,9,,,IND,42.721,-17.072,1
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,BB,FALSE,2020,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE,11,,,,11,,,,,,11,,,,11,,,,,,ATL,8.526,3.228,1
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,DM,FALSE,2020,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,7,,,7,,,,,,,ATL,-0.093,5.492,1
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,EA,FALSE,2020,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;MIG;STO,,,,,,,,,,,6,,,6,,,,,,,ATL,2.891,6.122,1
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,FG,FALSE,2020,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;MIG;STO,,,,,,,,,,,2,,,2,,,,,,,ATL,8.927,-2.595,1
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,FH,FALSE,2020,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,13.272,-12.1,1
+CHMY,Green,BZBXKR7W_Balazs_etal_1994_Chmy,BC,FALSE,1994,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,5,,,,,5,,,,,2,,,,2,,,,,,PAC,-166.157,23.761,1
+CHMY,Green,BZBXKR7W_Balazs_etal_1994_Chmy,BD,TRUE,1994,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES;OBS,,,,,,,,,,,3,,,,3,,,,,,PAC,-168.155,-14.546,1
+CHMY,Green,BZBXKR7W_Balazs_etal_1994_Chmy,DC,FALSE,1994,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,2,,,2,,,,,,,PAC,-157.805,21.459,1
+CHMY,Green,BZBXKR7W_Balazs_etal_1994_Chmy,EB,FALSE,1994,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,-179.322,-18.896,1
+CHMY,Green,BZBXKR7W_Balazs_etal_1994_Chmy,EC,TRUE,1994,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,2,,,2,,,,,,,PAC,-179.863,-16.485,1
+CHMY,Green,C685QQ4A_Senko_etal_2010_Chmy,CS,FALSE,2010,1,RADIO TAG,Acoustic Telemetry,FEE,1,,5,,1,,,5,,,1,,5,1,,,,5,,,PAC,-113.247,26.752,1
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,CZ,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,,,2,,,,,,,2,PAC,139.332,34.726,1
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,CZ,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,7,,,,,,,7,,,1,,,,,,,1,PAC,135.756,33.462,1
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,DE,FALSE,2015,1,SIGHTINGS (NO TAG/SAMPLE),Sightings,OBS,,,,,,,,,,,,,78,,,,,,,78,PAC,141.987,39.466,1
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,DE,FALSE,2015,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,72,,,,,,,72,PAC,141.933,39.333,1
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,DE,TRUE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,72,,,,,,,72,PAC,141.933,39.333,1
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,DE,FALSE,2015,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,2,,,,,,,2,PAC,141.891,40.234,1
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,FI,FALSE,2015,1,FLIPPER TAG,Mark-Recapture,FEE;OBS,,,,,,,,,,,,,12,,,,,,,12,PAC,141.106,38.105,1
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,BE,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,20,,,,20,,,,,,20,,,,,20,,,,,PAC,136.733,-12.583,1
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,DL,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,136.113,-13.48,1
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,DN,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,PAC,135.806,-14.276,1
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,ED,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,136.81,-13.86,1
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,FJ,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,13,,,13,,,,,,,PAC,136.8,-15.6,1
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,FK,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,139.45,-17.22,1
+CHMY,Green,CUJU6FWX_Girard_etal_2006_Chmy,BF,FALSE,2006,1,SIGHTINGS (NO TAG/SAMPLE),Sightings,NES,,,,,,,,,,,3,,,,3,,,,,,IND,40.366,-22.371,1
+CHMY,Green,CUJU6FWX_Girard_etal_2006_Chmy,BF,FALSE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,3,,,,3,,,,,,IND,40.35,-22.333,1
+CHMY,Green,CUJU6FWX_Girard_etal_2006_Chmy,BF,FALSE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,2,,,2,,,,,,,IND,41.301,-22.631,1
+CHMY,Green,CUJU6FWX_Girard_etal_2006_Chmy,DW,FALSE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,IND,42.34,-23.061,1
+CHMY,Green,D3L5XMN3_Velez-Rubio_etal_2018_Chmy,FL,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,3,,,,,3,,,,,3,,,,,3,,,ATL,-53.487,-34.237,1
+CHMY,Green,D3L5XMN3_Velez-Rubio_etal_2018_Chmy,FM,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,,,2,,,,,2,,,ATL,-48.629,-28.405,1
+CHMY,Green,D3L5XMN3_Velez-Rubio_etal_2018_Chmy,FN,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,1,,,ATL,-56.335,-36.54,1
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,CZ,FALSE,2006,5,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,4,,,,4,,,,,,1,,,1,,,,,,,PAC,138.155,30.068,1
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,CZ,TRUE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,142.158,27.088,1
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,CZ,FALSE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,3,,,3,,,,,,,PAC,142.158,27.088,1
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,CZ,FALSE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,142.153,26.659,1
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,CZ,FALSE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,PAC,139.45,34.732,1
+CHMY,Green,DMKBEZ9D_Kinzel_etal_2003_Chmy,AO,FALSE,2003,1,SATELLITE TELEMETRY (ARGOS),Satellite Telemetry,FEE,2,,,2,,,,,,,2,,,2,,,,,,,ATL,-82.09,24.56,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,BG,FALSE,2007,1,FLIPPER TAG,Mark-Recapture,FEE;NES,,,,,,,,,,,187,,50,,187,,,,,50,PAC,131.809,2.95,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,BG,TRUE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,2,,,,2,,,,,,PAC,131.809,2.95,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,BH,FALSE,2007,1,FLIPPER TAG,Mark-Recapture,NES,,,,,,,,,,,73,,,,73,,,,,,PAC,132.314,4.313,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,BH,TRUE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,PAC,132.314,4.313,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,BI,FALSE,2007,1,FLIPPER TAG,Mark-Recapture,NES,,,,,,,,,,,3,,,,3,,,,,,PAC,134.624,7.489,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,BI,FALSE,2007,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,134.463,7.44,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,BI,FALSE,2007,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,134.555,7.63,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,BJ,FALSE,2007,1,FLIPPER TAG,Mark-Recapture,NES,,,,,,,,,,,1,,,,1,,,,,,PAC,139.663,9.963,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,DL,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,3,,,,3,,,,,,2,,,2,,,,,,,PAC,134.025,-6.118,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,FO,FALSE,2007,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,125.079,1.708,1
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,FP,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,130.363,2.913,1
+CHMY,Green,ECSIFCSH_Brooks_etal_2009_Chmy,CS,FALSE,2009,1,SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,29,,,,,29,,,,,29,,,,,29,,,PAC,-112.1,24.9,1
+CHMY,Green,EDRW5RGF_Chambault_etal_2015_Chmy,AS,FALSE,2015,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,NES,19,,,,19,,,,,,18,,,,18,,,,,,ATL,-53.9,5.7,1
+CHMY,Green,EDRW5RGF_Chambault_etal_2015_Chmy,AS,TRUE,2015,1,SATELLITE TAG (GPS),Satellite Telemetry,NES,,,,,,,,,,,8,,,,8,,,,,,ATL,-53.5,5.4,1
+CHMY,Green,EDRW5RGF_Chambault_etal_2015_Chmy,AS,FALSE,2015,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,OBS,,,,,,,,,,,19,,,,,19,,,,,ATL,-53.86,5.86,1
+CHMY,Green,EDRW5RGF_Chambault_etal_2015_Chmy,CH,FALSE,2015,5,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,18,,,18,,,,,,,ATL,-36.5,-4.36,1
+CHMY,Green,EDRW5RGF_Chambault_etal_2015_Chmy,CT,TRUE,2015,1,SATELLITE TAG (GPS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-52.23,5.01,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,AV,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,1,,,,,,,1,ATL,-83.4,10.5,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,BK,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,NES,,,,,,,,,,,1,,,,1,,,,,,ATL,-86.89,20.68,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CF,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,17,,,,,,,17,ATL,-84.04,22.7,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CF,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,2,,,,,,,2,ATL,-79.9,26.5,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CG,FALSE,2011,5,FLIPPER TAG,Mark-Recapture,FEE,,,,,,,,,,,,,90,,,,,,,90,ATL,-83.17,12.65,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CG,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,FEE,,,,,,,,,,,,,135,,,,,,,79,ATL,-81.845,9.043,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CG,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,FEE,,,,,,,,,,,,,265,,,,,,,247,ATL,-82.04,9.26,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CI,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,2,,,,,,,2,ATL,-83.7,22,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CU,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,1,,,,,,,1,ATL,-78.91,33.44,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CV,FALSE,2011,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,,1,,ATL,-73.94,20.35,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CV,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,1,,,,,,,1,ATL,-68.82,19.11,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CY,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,1,,,,,,,1,ATL,-78.4,9.5,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,CY,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,1,,,,,,,1,ATL,-73.62,11.35,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,DI,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,2,,,,,,,2,ATL,-61.07,12.97,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,DJ,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,OBS,,,,,,,,,,,,,6,,,,,,,6,ATL,-70.49,11.38,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,DO,FALSE,2011,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,7,,,,,,,,,,7,,,,,,7,,ATL,-64.71,32.35,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,DO,TRUE,2011,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,5,,,,,,5,,ATL,-64.77,32.32,1
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,DO,FALSE,2011,1,FLIPPER TAG,Mark-Recapture,FEE,,,,,,,,,,,77,54,2381,,,,,131,,2381,ATL,-64.77,32.32,1
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,AG,FALSE,2013,1,RADIO TAG; SATELLITE TAG (GPS),Acoustic Telemetry,NES,3,,,,43,,,,,,40,,,,40,,,,,,ATL,-14.41,-7.91,1
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,AG,FALSE,2013,1,RADIO TAG; SATELLITE TAG (GPS),Acoustic Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,ATL,-14.41,-7.93,1
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,AG,FALSE,2013,1,RADIO TAG; SATELLITE TAG (GPS),Acoustic Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,ATL,-14.38,-7.89,1
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,AG,FALSE,2013,1,RADIO TAG; SATELLITE TAG (GPS),Acoustic Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,ATL,-14.41,-7.96,1
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,AG,FALSE,2013,1,RADIO TAG; SATELLITE TAG (GPS),Acoustic Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,ATL,-14.41,-7.95,1
+CHMY,Green,FDZBYLN2_Mansfield_etal_2021_Chmy,CF,FALSE,2021,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,15,6,,,,,,21,,,ATL,-79.963,26.644,1
+CHMY,Green,FDZBYLN2_Mansfield_etal_2021_Chmy,CU,FALSE,2021,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,15,6,,,,,,21,,,15,6,,,,,,21,,,ATL,-74.586,31.881,1
+CHMY,Green,FVBIP2AV_Hays_etal_2001_Chmy,AG,TRUE,2001,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,5,,,,5,,,,,,5,,,,5,,,,,,ATL,-14.367,-7.95,1
+CHMY,Green,FVBIP2AV_Hays_etal_2001_Chmy,CH,TRUE,2001,5,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,5,,,5,,,,,,,ATL,-34,-7.5,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,AE,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES;OBS,8,,,,8,,,,,,8,,,,8,,,,,,PAC,119.495,23.365,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,AJ,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,114.15,22.083,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,CP,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,110.617,19.117,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,DA,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,121.317,25.217,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,DA,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,124.383,24.633,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,DA,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,120.814,24.686,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,DA,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,128.05,26.517,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,DQ,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,129.783,31.767,1
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,FQ,FALSE,2000,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,117.267,23.217,1
+CHMY,Green,G45CVWWE_Etnoyer_etal_2006_Chmy,CS,TRUE,2006,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,1,,,,,1,,,,,1,,,,,1,,,PAC,-111.969,24.631,1
+CHMY,Green,GMZRRRGT_Cuevas_etal_2020_Chmy,CQ,FALSE,2020,1,SATELLITE TAG (ARGOS),Satellite Telemetry,HOM;OBS,,1,,1,,,,,,,,,1,1,,,,,,,ATL,-90.423,20.968,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BL,FALSE,2008,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,140,,,,140,,,,,,PAC,118.573,1.86,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BL,TRUE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,3,,,,,,,,,,3,,,,3,,,,,,PAC,118.573,1.86,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BL,FALSE,2008,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,1,,,,1,,,,,,PAC,118.399,2.085,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BL,TRUE,2008,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,1,,,,1,,,,,,PAC,118.573,1.86,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BL,FALSE,2008,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,FEE,,,,,,,,,,,85,,,85,,,,,,,PAC,118.2,2.361,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BM,FALSE,2008,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,2,,,,2,,,,,,PAC,118.02,6.114,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BM,FALSE,2008,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,3,,,,3,,,,,,PAC,118.077,6.194,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BN,FALSE,2008,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,5,,,,5,,,,,,PAC,121.932,6.382,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BN,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,121.998,6.375,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,BO,FALSE,2008,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,2,,,,2,,,,,,PAC,103.156,5.321,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,CO,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,118.614,4.494,1
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,CO,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,117.244,7.165,1
+CHMY,Green,H98GPKPZ_MacDonald_etal_2013_Chmy,DF,FALSE,2013,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,FEE,,,,,,,,,,,,,23,,,,,,,23,PAC,-117.123,32.635,1
+CHMY,Green,H98GPKPZ_MacDonald_etal_2013_Chmy,DF,TRUE,2013,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,22,,,,,,,22,,,23,,,,,,,23,PAC,-117.123,32.635,1
+CHMY,Green,HA3V44XF_Madrak_etal_2016_Chmy,DF,FALSE,2016,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,14,13,8,,,,8,,,,14,13,8,,,,,8,,,PAC,-117.123,32.635,1
+CHMY,Green,HASNPCUP_Hays_etal_2021_Chmy,BP,FALSE,2021,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,3,,,,3,,,,,,3,,,,3,,,,,,IND,72.47,-6.577,1
+CHMY,Green,HASNPCUP_Hays_etal_2021_Chmy,FR,FALSE,2021,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,2,,,2,,,,,,,IND,61.754,-9.548,1
+CHMY,Green,HASNPCUP_Hays_etal_2021_Chmy,FS,FALSE,2021,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,1,,,1,,,,,,,IND,59.659,-17.417,1
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,AK,TRUE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,10,,,,10,,,,,,10,,,,10,,,,,,ATL,33.491,35.334,1
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,AK,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,34.038,36.28,1
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,CL,TRUE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,30.943,36.818,1
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,CR,FALSE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;WIN,,,,,,,,,,,3,,,3,,,,,,,ATL,23.212,32.581,1
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,CR,TRUE,2007,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,ATL,16.012,31.349,1
+CHMY,Green,ICQWZR9F_Swimmer_etal_2006_Chmy,AL,FALSE,2006,1,POP-UP SATELLITE ARCHIVAL (PSAT),Satellite Telemetry,OBS,,,1,,,,,,1,,,,1,,,,,,,1,PAC,-85.814,10.697,1
+CHMY,Green,ICQWZR9F_Swimmer_etal_2006_Chmy,CK,FALSE,2006,5,POP-UP SATELLITE ARCHIVAL (PSAT),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,,,1,PAC,-86.584,8.706,1
+CHMY,Green,IH4QEQ7N_Godley_etal_2010_Chmy,BQ,FALSE,2010,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES;OBS,10,,,,10,,,,,,10,,,,,10,,,,,ATL,-15.4,10.7,1
+CHMY,Green,IH4QEQ7N_Godley_etal_2010_Chmy,BQ,TRUE,2010,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,ATL,-15.4,10.7,1
+CHMY,Green,IH4QEQ7N_Godley_etal_2010_Chmy,CH,TRUE,2010,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,ATL,-33.8,-3.867,1
+CHMY,Green,IN4J22HB_Hays_etal_2001_Chmy,AG,FALSE,2001,1,Argos,Satellite Telemetry,BRE,,2,,,2,,,,,,,2,,,2,,,,,,ATL,-14.407,-7.92,1
+CHMY,Green,IN4J22HB_Hays_etal_2001_Chmy,CH,TRUE,2001,5,Argos,Satellite Telemetry,OBS,,,,,,,,,,,,1,,1,,,,,,,ATL,-34.5,-7,1
+CHMY,Green,IN4J22HB_Hays_etal_2001_Chmy,FT,FALSE,2001,5,Argos,Satellite Telemetry,MIG,,,,,,,,,,,,2,,2,,,,,,,ATL,-25,-9,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,AS,TRUE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,16,,,,16,,,,,,16,,,,16,,,,,,ATL,-53.95,5.75,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,AS,TRUE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,STO,,,,,,,,,,,7,,,7,,,,,,,ATL,-53.02,5.51,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,CH,TRUE,2015,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,-34.92,-6.68,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,CH,TRUE,2015,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,16,,,16,,,,,,,ATL,-38.52,-3.68,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,CH,TRUE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,STO,,,,,,,,,,,3,,,3,,,,,,,ATL,-41.58,-2.88,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,CT,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,STO,,,,,,,,,,,7,,,7,,,,,,,ATL,-51.63,4.34,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,CT,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,STO,,,,,,,,,,,5,,,5,,,,,,,ATL,-50.58,2.2,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,FU,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,STO,,,,,,,,,,,2,,,2,,,,,,,ATL,-47.71,-0.45,1
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,FV,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,STO,,,,,,,,,,,4,,,4,,,,,,,ATL,-45.27,-1.26,1
+CHMY,Green,ISLNBR9N_Hays_etal_1999_Chmy,AG,FALSE,1999,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,12,,,,12,,,,,,12,,,,,6,,,,,ATL,-14.417,-7.916,1
+CHMY,Green,ISLNBR9N_Hays_etal_1999_Chmy,CH,TRUE,1999,5,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,5,,,5,,,,,,,ATL,-33.51,-7.543,1
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,BP,FALSE,2017,1,Argos; GPS,Satellite Telemetry,NES,8,,,,8,,,,,,8,,,,8,,,,,,IND,72.45,-7.417,1
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,BP,FALSE,2017,1,Argos; GPS,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,71.983,-6.201,1
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,FW,FALSE,2017,1,Argos; GPS,Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,IND,48.596,4.905,1
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,FX,FALSE,2017,1,Argos; GPS,Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,IND,55.49,-4.69,1
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,FY,FALSE,2017,1,Argos; GPS,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,73.169,-0.676,1
+CHMY,Green,JGV2ANR4_Snape_etal_2018_Chmy,AK,FALSE,2018,1,GPS DATALOGGER; SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,26,,,,26,,,,,,,,,,,,,,,,ATL,33.494,35.374,1
+CHMY,Green,JK5M9R6H_Papi_etal_1995_Chmy,BO,FALSE,1995,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,1,,,,1,,,,,,1,,,,1,,,,,,PAC,103.008,5.813,1
+CHMY,Green,JK5M9R6H_Papi_etal_1995_Chmy,FZ,FALSE,1995,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,107.896,3.444,1
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,BJ,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;NES,13,,,,13,,,,,,13,,,,13,,,,,,PAC,139.91,9.947,1
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,DA,FALSE,2014,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,3,,,3,,,,,,,PAC,125.877,25.232,1
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,DP,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,104.073,2.212,1
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,EE,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,119.76,10.446,1
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,GA,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,4,,,4,,,,,,,PAC,120.985,5.84,1
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,GB,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,120.205,16.244,1
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,GC,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,125.928,9.922,1
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,GD,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,123.967,6.265,1
+CHMY,Green,KAA4B6KF_Seminoff_and_Jones_2006_Chmy,CS,TRUE,2006,1,RADIO TAG,Acoustic Telemetry,FEE,,1,5,,,,,,,6,,1,5,,,,,,,6,PAC,-113.511,28.95,1
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,BR,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,5,,,,5,,,,,,5,,,,5,,,,,,PAC,169.946,9.158,1
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,BR,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE,,,,,,,,,,,5,,,5,,,,,,,PAC,170.034,9.132,1
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,EE,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,119.2,10.8,1
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,GE,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,173,1.5,1
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,GF,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,165.4,11.5,1
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,GG,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,158.3,5.8,1
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,GH,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,179.2,6.6,1
+CHMY,Green,LLC6B2DU_Shimada_etal_2017_Chmy,CX,FALSE,2017,1,SATELLITE TAG (GPS),Satellite Telemetry,FEE;OBS,16,2,,18,,,,,,,16,2,,18,,,,,,,PAC,153.297,-27.343,1
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,BS,FALSE,2012,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,NES,,,,,,,,,,,55,,,,55,,,,,,IND,40.661,-11.031,1
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,BS,TRUE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES;OBS,4,,,,4,,,,,,4,,,,4,,,,,,IND,40.661,-11.031,1
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,GI,FALSE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,39.991,-3.407,1
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,GJ,FALSE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,39.441,-8.258,1
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,GK,FALSE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,48.581,-12.941,1
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,GL,FALSE,2012,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,41.232,-2.007,1
+CHMY,Green,MBFKPQ38_Esteban_etal_2015_Chmy,BT,FALSE,2015,1,FLIPPER TAG,Mark-Recapture,BRE;FEE;NES,,,,,,,,,,,26,,,,23,3,,,,,ATL,-62.978,17.507,1
+CHMY,Green,MBFKPQ38_Esteban_etal_2015_Chmy,BT,TRUE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;FEE;NES,3,,,,3,,,,,,26,,,,23,3,,,,,ATL,-62.978,17.507,1
+CHMY,Green,MBFKPQ38_Esteban_etal_2015_Chmy,CV,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,-68.558,18.846,1
+CHMY,Green,MLS7TQZI_Eguchi_etal_2020_Chmy,DF,FALSE,2020,1,GEOLOCATOR (GLS); SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,15,4,11,,,,,,,,15,4,11,,,,,11,,,PAC,-117.14,32.663,1
+CHMY,Green,N4NTXATT_Fujisaki_etal_2016_Chmy,AO,FALSE,2016,1,ACOUSTIC/SONIC TAG (MARK-RECAP),Acoustic Telemetry,FEE;OBS,6,9,,10,,,,,5,,6,9,,10,,,,,5,,ATL,-82.825,24.673,1
+CHMY,Green,N4NTXATT_Fujisaki_etal_2016_Chmy,AO,TRUE,2016,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,6,9,,,,,,,5,,ATL,-82.825,24.673,1
+CHMY,Green,N6BXA3PY_Levy_etal_2017_chmy,AQ,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;MIG;NES,3,2,,,3,,,,,2,3,2,,,3,,,,,,ATL,34.289,32.351,1
+CHMY,Green,N6BXA3PY_Levy_etal_2017_chmy,CR,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,24.076,32.238,1
+CHMY,Green,N6BXA3PY_Levy_etal_2017_chmy,DD,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,1,,2,,,,,,,ATL,33.228,31.403,1
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,BD,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,7,,,,7,,,,,,8,,,,8,,,,,,PAC,-168.154,-14.543,1
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,BD,TRUE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,7,,,,,7,,,,,PAC,-168.154,-14.543,1
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,EB,TRUE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,-179.399,-18.885,1
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,EC,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,-179.898,-16.885,1
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,EC,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,3,,,3,,,,,,,PAC,179.286,-16.365,1
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,GM,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,-151.396,-16.803,1
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,GN,FALSE,2004,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,178.641,-17.69,1
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,BU,FALSE,2016,1,Argos,Satellite Telemetry,NES,4,,,,4,,,,,,3,,,,3,,,,,,ATL,-68.205,12.165,1
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,BU,FALSE,2016,1,Argos,Satellite Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,ATL,-68.28,12.05,1
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,CG,FALSE,2016,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-82.546,14.035,1
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,CI,FALSE,2016,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-78.754,21.166,1
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,CJ,FALSE,2016,1,Argos,Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-87.633,18.855,1
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,DJ,FALSE,2016,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,-66.812,11.833,1
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,BV,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES;OBS,4,,,,4,,,,,,4,,,,4,,,,,,IND,53.367,-5.433,1
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,BV,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,IND,53.671,-5.689,1
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,BV,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,53.136,-5.797,1
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,GO,FALSE,2015,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,46.331,-9.416,1
+CHMY,Green,PEFD3ZAD_Parker_etal_2014_Chmy,GP,FALSE,2014,1,Argos,Satellite Telemetry,OBS,,,2,,,,,,,2,,,2,,,,,,,2,PAC,114.99,14.97,1
+CHMY,Green,PISNU2C5_Godley_etal_2003_Chmy,CH,FALSE,2003,1,Flipper,Mark-Recapture,FEE;OBS,,,,8,2,,,6,,,,,8,2,,,,4,,2,ATL,-39.8,-2.9,1
+CHMY,Green,PISNU2C5_Godley_etal_2003_Chmy,CH,TRUE,2003,1,Argos,Satellite Telemetry,FEE;OBS,,,,,,,,,,,,,8,2,,,,2,,2,ATL,-39.8,-2.9,1
+CHMY,Green,PISNU2C5_Godley_etal_2003_Chmy,CH,TRUE,2003,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,,,1,ATL,-35.3,-5.3,1
+CHMY,Green,PISNU2C5_Godley_etal_2003_Chmy,GQ,FALSE,2003,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,ATL,-44,-2.5,1
+CHMY,Green,PQFWTM3I_Blanco_etal_2013_Chmy,AL,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;OBS,,,,,,,,,,,10,,,,,10,,,,,PAC,-85.83,10.39,1
+CHMY,Green,PQFWTM3I_Blanco_etal_2013_Chmy,AL,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;OBS,,,,,,,,,,,5,,,,,5,,,,,PAC,-85.81,10.4,1
+CHMY,Green,PQFWTM3I_Blanco_etal_2013_Chmy,AL,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,12,,,,12,,,,,,9,,,,9,,,,,,PAC,-85.83,10.396,1
+CHMY,Green,PQFWTM3I_Blanco_etal_2013_Chmy,AL,TRUE,2013,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,3,,,,3,,,,,,PAC,-85.835,10.384,1
+CHMY,Green,PW7NPFTV_Godley_etal_2002_Chmy,AK,TRUE,2002,1,Argos,Satellite Telemetry,NES,6,,,,6,,,,,,6,,,,6,,,,,,ATL,33.5,35.3,1
+CHMY,Green,PW7NPFTV_Godley_etal_2002_Chmy,CL,TRUE,2002,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,31.72,36.5,1
+CHMY,Green,PW7NPFTV_Godley_etal_2002_Chmy,CL,FALSE,2002,1,Argos,Satellite Telemetry,MIG,,,,,,,,,,,5,,,5,,,,,,,ATL,29.93,33.03,1
+CHMY,Green,PW7NPFTV_Godley_etal_2002_Chmy,CR,TRUE,2002,5,Argos,Satellite Telemetry,FEE,,,,,,,,,,,5,,,5,,,,,,,ATL,21.5,33,1
+CHMY,Green,PYYTVNGX_Pillans_etal_2022_Chmy,AX,FALSE,2022,1,ACOUSTIC/SONIC TAG (MARK-RECAP); FLIPPER TAG,Acoustic Telemetry,FEE;OBS,18,15,48,,,,,29,22,7,18,15,48,,,,,29,22,7,IND,113.898,-21.974,1
+CHMY,Green,Q2E9R5RS_Waayers_etal_2011_Chmy,AY,TRUE,2011,1,Argos; GPS,Satellite Telemetry,NES,11,,,,11,,,,,,11,,,,11,,,,,,IND,122.116,-16.85,1
+CHMY,Green,Q2E9R5RS_Waayers_etal_2011_Chmy,AY,TRUE,2011,1,Argos; GPS,Satellite Telemetry,OBS,,,,,,,,,,,10,,,,,10,,,,,IND,122.116,-16.85,1
+CHMY,Green,QP99JZBA_Enstipp_etal_2016_Chmy,BW,FALSE,2016,1,ADVANCED DIVE BEHAVIOR TAG,Dive Loggers,NES,,,,,,,,,,,1,,,,1,,,,,,IND,43.733,-12.317,1
+CHMY,Green,QP99JZBA_Enstipp_etal_2016_Chmy,DY,FALSE,2016,1,ADVANCED DIVE BEHAVIOR TAG,Dive Loggers,FEE,6,7,,13,,,,,,,6,7,,13,,,,,,,IND,45.083,-12.967,1
+CHMY,Green,QP99JZBA_Enstipp_etal_2016_Chmy,GR,FALSE,2016,1,ADVANCED DIVE BEHAVIOR TAG,Dive Loggers,OBS,,,,,,,,,,,1,,,1,,,,,,,IND,41.84,-12.909,1
+CHMY,Green,QSW23ZTJ_Hays_etal_2001_Chmy,AG,TRUE,2001,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,12,,,,12,,,,,,12,,,,12,,,,,,ATL,-14.407,-7.923,1
+CHMY,Green,QSW23ZTJ_Hays_etal_2001_Chmy,CH,FALSE,2001,10,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,12,,,12,,,,,,,ATL,-34,-7,1
+CHMY,Green,R5NTTXM9_Hochscheid_etal_1999_Chmy,AK,FALSE,1999,1,ADVANCED DIVE BEHAVIOR TAG,Dive Loggers,NES,,,,,,,,,,,4,,,,4,,,,,,ATL,33.5,35.35,1
+CHMY,Green,RA4TMJME_Whiting_etal_2008_Chmy,BX,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,6,,,,6,,,,,,6,,,,6,,,,,,IND,96.828,-11.836,1
+CHMY,Green,RA4TMJME_Whiting_etal_2008_Chmy,BX,FALSE,2008,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,6,,,6,,,,,,,IND,96.876,-12.166,1
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,AK,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,26,2,,,28,,,,,,26,2,,,28,,,,,,ATL,33.482,35.384,1
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,CL,TRUE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,3,3,,,,,,,ATL,31.39,36.455,1
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,CL,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,2,2,,,,,,,ATL,32.342,34.605,1
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,CR,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,,7,,,,,,,ATL,23.151,32.626,1
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,DD,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,,7,,,,,,,ATL,33.128,31.194,1
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,DG,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,,6,,,,,,,ATL,15.741,31.559,1
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,DH,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,2,2,,,,,,,ATL,11.741,33.268,1
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,DU,FALSE,2017,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,1,,,,,,,ATL,29.292,31.186,1
+CHMY,Green,RDUSPBLB_Arai_2004_Chmy,AC,TRUE,2004,1,SATELLITE TAG (GPS),Satellite Telemetry,NES,22,,,11,11,,,,,,5,,,,5,,,,,,IND,97.624,8.982,1
+CHMY,Green,RDUSPBLB_Arai_2004_Chmy,BY,FALSE,2004,1,SATELLITE TAG (GPS),Satellite Telemetry,NES,,,,,,,,,,,6,,,,6,,,,,,PAC,100.86,12.364,1
+CHMY,Green,RDUSPBLB_Arai_2004_Chmy,CO,FALSE,2004,5,SATELLITE TAG (GPS),Satellite Telemetry,OBS,,,,,,,,,,,4,,,4,,,,,,,PAC,114.984,7.865,1
+CHMY,Green,RDUSPBLB_Arai_2004_Chmy,CW,FALSE,2004,5,SATELLITE TAG (GPS),Satellite Telemetry,OBS,,,,,,,,,,,5,,,5,,,,,,,IND,93.821,9.981,1
+CHMY,Green,RDUSPBLB_Arai_2004_Chmy,DP,FALSE,2004,1,SATELLITE TAG (GPS),Satellite Telemetry,OBS,,,,,,,,,,,2,,,2,,,,,,,PAC,104.443,1.646,1
+CHMY,Green,RH43YD5M_Webster_etal_2022_Chmy,CN,FALSE,2022,1,FLIPPER TAG,Mark-Recapture,FEE;OBS,,,,,,,,,,,30,31,12,,,,34,,,,PAC,151.309,-23.836,1
+CHMY,Green,RH43YD5M_Webster_etal_2022_Chmy,CN,TRUE,2022,1,SATELLITE TAG (GPS),Satellite Telemetry,FEE;OBS,30,31,12,39,,,34,,,,30,31,12,39,,,34,,,,PAC,151.309,-23.836,1
+CHMY,Green,RU8Z4BMU_Rees_etal_2008_Chmy,AR,TRUE,2008,1,Argos,Satellite Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,ATL,35.863,35.452,1
+CHMY,Green,RU8Z4BMU_Rees_etal_2008_Chmy,CR,FALSE,2008,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,25.26,31.61,1
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,BZ,FALSE,2022,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,BRE;MIG;NES;OBS,,,,,,,,,,,10,,,,10,,,,,,ATL,-81.945,26.218,1
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,BZ,TRUE,2022,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;MIG;NES;OBS,,10,,,10,,,,,,10,,,,10,,,,,,ATL,-81.945,26.218,1
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,CF,FALSE,2022,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,FEE;OBS,,,,,,,,,,,10,,,,,6,,,,,ATL,-81.746,25.013,1
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,CF,TRUE,2022,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,10,,,,,6,,,,,ATL,-81.746,25.013,1
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,CF,FALSE,2022,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-80.449,27.99,1
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,CF,TRUE,2022,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-80.449,27.99,1
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,CF,FALSE,2022,1,PASSIVE INTEGRATED TRANSPONDER (PIT),Mark-Recapture,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,-82.816,27.354,1
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,CF,TRUE,2022,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,ATL,-82.816,27.354,1
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,BO,FALSE,1995,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,4,,,,4,,,,,,4,,,,4,,,,,,PAC,103.008,5.813,1
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,CO,FALSE,1995,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,115.359,5.597,1
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,CO,FALSE,1995,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,117.292,8.332,1
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,GS,FALSE,1995,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,103.433,3.283,1
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,GT,FALSE,1995,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,106.247,-2.102,1
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,GU,FALSE,1995,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG;OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,105.831,2.899,1
+CHMY,Green,THF2HFF4_Nichols_2003_Chmy,CA,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE,,,10,,,,,,,10,,,3,,,,,,,3,PAC,-103.69,18.523,1
+CHMY,Green,THF2HFF4_Nichols_2003_Chmy,CS,FALSE,2003,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,10,,,,,,,10,PAC,-114.499,26.835,1
+CHMY,Green,U4CPAKEV_Mettler_etal_2019_Chmy,BB,TRUE,2019,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,6,,,,6,,,,,,6,,,,6,,,,,,ATL,8.527,3.242,1
+CHMY,Green,U4CPAKEV_Mettler_etal_2019_Chmy,DM,TRUE,2019,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,5,,,5,,,,,,,ATL,0.111,5.465,1
+CHMY,Green,U4CPAKEV_Mettler_etal_2019_Chmy,EA,TRUE,2019,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS;STO,,,,,,,,,,,4,,,4,,,,,,,ATL,3.544,6.321,1
+CHMY,Green,U7R5BHGZ_Beal_etal_2022_Chmy,BQ,FALSE,2022,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,BRE;FEE;NES,13,12,,,25,,,,,,13,12,,,25,,,,,,ATL,-15.731,10.883,1
+CHMY,Green,U7R5BHGZ_Beal_etal_2022_Chmy,DM,FALSE,2022,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,0.605,5.466,1
+CHMY,Green,U7R5BHGZ_Beal_etal_2022_Chmy,GV,FALSE,2022,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,,5,,5,,,,,,,ATL,-16.85,13.655,1
+CHMY,Green,U7R5BHGZ_Beal_etal_2022_Chmy,GW,FALSE,2022,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,10,2,,12,,,,,,,ATL,-16.537,20.058,1
+CHMY,Green,U7SJ7ADW_Gillis_etal_2020_Chmy,CI,FALSE,2020,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,7,,,,,,,7,,,7,,,,,7,,,ATL,-79.267,25.718,1
+CHMY,Green,UHQ5UWVA_Hazel_2009_Chmy,CX,FALSE,2009,1,ACOUSTIC/SONIC TAG (TELEMETRY); SATELLITE TELEMETRY (ARGOS); SATELLITE TELEMETRY (GPS),Combined Techniques,OBS,,,3,3,,,,,,,,,3,,,,,,,3,PAC,153.253,-27.239,1
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,AU,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG;OBS,4,,,,4,,,,,,1,,,1,,,,,,,IND,37.74,23.669,1
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,CB,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,,,,,,,,,,,4,,,4,,,,,,,IND,36.333,24,1
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,GX,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,36.162,22.811,1
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,GY,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,35.215,24.457,1
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,GZ,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,39.84,16.522,1
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,HA,FALSE,2014,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,33.737,27.644,1
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,AK,FALSE,2022,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,BRE,19,,,,19,,,,,,19,,,,17,2,,,,,ATL,33.931,35.527,1
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,CR,FALSE,2022,1,SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,5,,,5,,,,,,,ATL,23.718,32.328,1
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,CR,FALSE,2022,1,SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,16.173,31.512,1
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,DD,FALSE,2022,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,14,,,14,,,,,,,ATL,33.116,31.199,1
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,DH,FALSE,2022,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,10.807,33.579,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,AE,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;MIG;OBS,,,,,,,,,,,1,1,2,1,,,,1,2,,PAC,118.926,23.003,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,AJ,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;FEE;OBS,9,1,13,9,,4,,10,,,10,1,8,,3,,,6,3,,PAC,114.298,22.238,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,CC,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;FEE;MIG;OBS,,,,,,,,,,,1,,5,,2,,,3,1,,PAC,120.464,22.316,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,CO,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,PAC,117.099,8.358,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,CP,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,110.611,20.486,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,CP,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,107.547,20.245,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,CP,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,112,21.76,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,DA,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,PAC,121.523,25.512,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,DA,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,123.486,24.314,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,DA,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG;OBS,,,,,,,,,,,1,,1,,,,,1,1,,PAC,120.729,26.442,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,EF,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;OBS,,,,,,,,,,,1,,1,,,,,1,,,PAC,116.799,20.344,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,HB,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG;OBS,,,,,,,,,,,2,,4,1,,,,1,2,2,PAC,116.031,22.505,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,HC,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,1,1,,,,1,,,PAC,120.702,18.6,1
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,HD,FALSE,2018,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,124.142,12.535,1
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,BS,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,2,,6,,2,,,6,,,1,,,1,,,,,,,IND,40.597,-11.738,1
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,BW,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,IND,43.686,-12.409,1
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,CD,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,,,,,,,,,,,1,,,,1,,,,,,IND,54.524,-15.893,1
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,CD,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,,,1,,,,,1,,,IND,54.806,-15.549,1
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,DX,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,1,,,,IND,47.327,-11.556,1
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,DZ,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,5,,,,5,,,,IND,55.525,-21.135,1
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,HE,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,,1,,,,,1,,,IND,71.921,-4.376,1
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,HF,FALSE,2003,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,2,,,,,2,,,IND,48.985,-19.391,1
+CHMY,Green,V7X35V7H_Whiting_and_Miller_1998_Chmy,CN,FALSE,1998,1,RADIO TAG,Acoustic Telemetry,FEE,,,6,6,,,,,,,,,6,6,,,,,,,PAC,148.704,-20.62,1
+CHMY,Green,VBP7TIFZ_Snoddy_and_Williard_2010_Chmy,CU,FALSE,2010,5,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,,,1,,,,,1,,,ATL,-80.4,32.44,1
+CHMY,Green,VBP7TIFZ_Snoddy_and_Williard_2010_Chmy,CU,FALSE,2010,1,SATELLITE TAG (ARGOS),Satellite Telemetry,MIG,,,,,,,,,,,,,1,,,,,1,,,ATL,-77.1,34.63,1
+CHMY,Green,VBP7TIFZ_Snoddy_and_Williard_2010_Chmy,CU,FALSE,2010,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,9,,,,,9,,,,,9,,,,,,,9,ATL,-77.96,33.9,1
+CHMY,Green,VMWG3NVP_Cheng_and_Wang_2009_Chmy,AE,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,6,,,,6,,,,,,6,,,,6,,,,,,PAC,119.495,23.365,1
+CHMY,Green,VMWG3NVP_Cheng_and_Wang_2009_Chmy,CP,FALSE,2009,5,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,2,,,2,,,,,,,PAC,109.954,20.093,1
+CHMY,Green,VMWG3NVP_Cheng_and_Wang_2009_Chmy,DQ,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,2,,,2,,,,,,,PAC,129.637,32.363,1
+CHMY,Green,VMWG3NVP_Cheng_and_Wang_2009_Chmy,EF,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,2,,,2,,,,,,,PAC,116.784,20.688,1
+CHMY,Green,VUBN64UW_Lamont_etal_2015_Chmy,CF,FALSE,2015,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,8,,,,,8,,,,,1,,,,,1,,,ATL,-85.33,29.72,1
+CHMY,Green,VUBN64UW_Lamont_etal_2015_Chmy,CF,TRUE,2015,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,ATL,-85.33,29.72,1
+CHMY,Green,VUBN64UW_Lamont_etal_2015_Chmy,CF,FALSE,2015,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,ATL,-85.33,29.71,1
+CHMY,Green,VUBN64UW_Lamont_etal_2015_Chmy,CF,FALSE,2015,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,,,,,,,,,,,1,,,,,,,1,ATL,-85.35,29.71,1
+CHMY,Green,VUBN64UW_Lamont_etal_2015_Chmy,CF,TRUE,2015,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,ATL,-85.33,29.72,1
+CHMY,Green,VUBN64UW_Lamont_etal_2015_Chmy,CF,FALSE,2015,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,ATL,-85.32,29.71,1
+CHMY,Green,VUBN64UW_Lamont_etal_2015_Chmy,CF,TRUE,2015,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,ATL,-85.33,29.72,1
+CHMY,Green,VUBN64UW_Lamont_etal_2015_Chmy,CF,TRUE,2015,1,ACOUSTIC/SONIC TAG (TELEMETRY),Acoustic Telemetry,FEE,,,,,,,,,,,,,1,,,,,1,,,ATL,-85.33,29.71,1
+CHMY,Green,WVAI4H8Y_Metz_etal_2020_Chmy,DS,FALSE,2020,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE;MIG;OBS,15,,,,,15,,,,,,,15,,,,,15,,,ATL,-96.758,25.913,1
+CHMY,Green,WVZHZNDW_Yasuda_and_Arai_2005_Chmy,AC,TRUE,2005,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,OBS,1,,,1,,,,,,,1,,,1,,,,,,,IND,98.185,8.455,1
+CHMY,Green,WVZHZNDW_Yasuda_and_Arai_2005_Chmy,AC,TRUE,2005,1,SATELLITE TAG (ARGOS); SATELLITE TAG (GPS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,IND,98.182,8.351,1
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,BO,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,3,,,,3,,,,,,3,,,,3,,,,,,PAC,103.471,4.538,1
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,BO,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE;NES,,,,,,,,,,,1,,,,,1,,,,,PAC,103.485,4.545,1
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,BO,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,BRE,,,,,,,,,,,,1,,,1,,,,,,PAC,103.475,4.546,1
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,BO,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,,1,,,1,,,,,,PAC,103.452,4.591,1
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,CO,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,PAC,115.685,5.901,1
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,CP,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,109.131,15.372,1
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,DP,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,,1,,1,,,,,,,PAC,104.336,2.585,1
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,HG,FALSE,2009,1,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,PAC,106.537,-5.536,1
+CHMY,Green,XARK6NRE_Shimada_etal_2016_Chmy,CE,FALSE,2016,1,Argos,Satellite Telemetry,FEE,42,10,,52,,,,,,,4,,,4,,,,,,,PAC,142.166,-10.416,1
+CHMY,Green,XARK6NRE_Shimada_etal_2016_Chmy,CN,TRUE,2016,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,10,8,,18,,,,,,,PAC,150.876,-23.524,1
+CHMY,Green,XARK6NRE_Shimada_etal_2016_Chmy,CN,TRUE,2016,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,6,,,6,,,,,,,PAC,152.905,-25.61,1
+CHMY,Green,XARK6NRE_Shimada_etal_2016_Chmy,CN,TRUE,2016,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,6,,,6,,,,,,,PAC,150.379,-22.35,1
+CHMY,Green,XARK6NRE_Shimada_etal_2016_Chmy,CX,TRUE,2016,1,Argos,Satellite Telemetry,FEE,,,,,,,,,,,16,2,,18,,,,,,,PAC,153.25,-27.239,1
+CHMY,Green,ZMN7IRSJ_Hays_etal_2002_Chmy,AG,FALSE,2002,1,GPS DATALOGGER; SATELLITE TAG (ARGOS),Satellite Telemetry,NES,5,,,,5,,,,,,5,,,,5,,,,,,ATL,-14.427,-7.961,1
+CHMY,Green,ZMN7IRSJ_Hays_etal_2002_Chmy,CH,TRUE,2002,5,GPS DATALOGGER; SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,5,,,5,,,,,,,ATL,-34.592,-7.522,1
+CHMY,Green,ZMN7IRSJ_Hays_etal_2002_Chmy,CH,TRUE,2002,1,GPS DATALOGGER; SATELLITE TAG (ARGOS),Satellite Telemetry,OBS,,,,,,,,,,,1,,,1,,,,,,,ATL,-32.431,-3.829,1
+CHMY,Green,ZRF85WW9_Turkecan_and_Yerli_2011_Chmy,AP,FALSE,2011,1,SATELLITE TAG (ARGOS),Satellite Telemetry,NES,2,,,,2,,,,,,2,,,,2,,,,,,ATL,35.22,36.56,1
+CHMY,Green,ZRF85WW9_Turkecan_and_Yerli_2011_Chmy,CL,FALSE,2011,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,31.7,36.62,1
+CHMY,Green,ZRF85WW9_Turkecan_and_Yerli_2011_Chmy,CR,FALSE,2011,5,SATELLITE TAG (ARGOS),Satellite Telemetry,FEE,,,,,,,,,,,1,,,1,,,,,,,ATL,15.7,32.14,1

@@ -1,0 +1,393 @@
+Species,Common Name,Review ID,Ver.,Type,ID,Method,Site From,Site To,Sites between,#animals,Months start,Months end
+CHMY,Green,23HBZAII_Lima_etal_1999_Chmy,1000000,Connection,1,Mark-recapture,A,B,,1,(UNK),MAR
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,1,Telemetry,A,B,,8,JUN; AUG,JUN; AUG
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,2,Telemetry,B,A,,8,JUL; AUG,JUL; AUG
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,3,Telemetry,A,B,,3,JUL; AUG,JUL; AUG
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,4,Telemetry,B,A,,3,JUL; SEP,JUL; SEP
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,5,Telemetry,A,B,,3,JUL; SEP,JUL; SEP
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,6,Telemetry,B,A,,3,AUG; SEP,AUG; SEP
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,7,Telemetry,A,B,,3,AUG; SEP,AUG; SEP
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,8,Telemetry,B,A,,3,AUG; SEP; OCT,AUG; SEP; OCT
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,9,Telemetry,A,B,,3,AUG; SEP; OCT,AUG; SEP; OCT
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,10,Telemetry,B,A,,3,SEP; OCT,SEP; OCT
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,11,Telemetry,A,C,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,12,Telemetry,A,D,,1,JUN,JUN
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,13,Telemetry,D,A,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,14,Telemetry,A,D,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,15,Telemetry,D,A,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,16,Telemetry,A,D,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,17,Telemetry,D,A,,1,AUG,AUG
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,18,Telemetry,A,D,,1,AUG,AUG
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,19,Telemetry,D,A,,1,AUG,AUG
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,20,Telemetry,A,E,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,21,Telemetry,E,A,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,22,Telemetry,A,E,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,23,Telemetry,E,A,,1,JUL,JUL
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,24,Telemetry,A,F,,3,JUL; AUG; SEP,JUL; AUG; SEP
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,25,Telemetry,A,G,,4,JUL; AUG,JUL; AUG; SEP
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,26,Telemetry,A,H,,2,SEP; OCT,SEP; NOV
+CHMY,Green,2AE5WGEN_Richardson_etal_2013_Chmy,1000000,Route,27,Telemetry,A,I,,1,OCT,NOV
+CHMY,Green,2DIWCUSF_Yasuda_etal_2006_Chmy,1000000,Connection,2,Telemetry,A,D,,2,MAR; JUN,MAR; JUN
+CHMY,Green,2DIWCUSF_Yasuda_etal_2006_Chmy,1000000,Route,1,Telemetry,A,C,,5,JUN; SEP,JUN; SEP
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,1000000,Route,1,Telemetry,A,B,,3,(UNK),(UNK)
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,1000000,Route,2,Telemetry,A,C,,1,(UNK),(UNK)
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,1000000,Route,3,Telemetry,A,D,,1,(UNK),(UNK)
+CHMY,Green,2REUV67R_Cheng_2007_Chmy,1000000,Route,4,Telemetry,A,E,,1,(UNK),(UNK)
+CHMY,Green,39W3A5US_Luschi_etal_1998_Chmy,1000000,Route,1,Telemetry,A,B,,5,MAY; JUN; JUL,JUN; JUL; AUG
+CHMY,Green,39W3A5US_Luschi_etal_1998_Chmy,1000000,Route,2,Telemetry,A,C,,1,APR,APR
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,1000000,Connection,4,Genetic,,,F; G,1,,
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,1000000,Route,1,Telemetry,A,B,,1,AUG,(UNK)
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,1000000,Route,2,Telemetry,B,C,,1,(UNK),JAN
+CHMY,Green,463M2S29_Stringell_etal_2015_Chmy,1000000,Route,3,Telemetry,D,E,,1,SEP,OCT
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,1000000,Connection,4,Genetic,,,A,5,,
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,1000000,Route,1,Telemetry,A,B,,1,(UNK),(UNK)
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,1000000,Route,2,Telemetry,A,C,,1,(UNK),(UNK)
+CHMY,Green,4RE2NS68_Ng_etal_2014_Chmy,1000000,Route,3,Telemetry,A,D,,1,(UNK),OCT
+CHMY,Green,69G2XFXH_Hays_etal_2001_Chmy,1000000,Connection,1,Telemetry,A,B,,1,JUN,JUL
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,1000000,Route,1,Telemetry,A,B,,9,JUN; JUL; AUG; (UNK),JUN; JUL; AUG; (UNK)
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,1000000,Route,2,Telemetry,B,A,,9,JUN; JUL; AUG; (UNK),JUN; JUL; AUG; (UNK)
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,1000000,Route,3,Telemetry,A,B,,3,JUN; JUL; AUG; (UNK),JUN; JUL; AUG; (UNK)
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,1000000,Route,4,Telemetry,B,A,,3,JUN; JUL; AUG; (UNK),JUN; JUL; AUG; (UNK)
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,1000000,Route,5,Telemetry,A,B,,2,JUN; JUL; AUG; (UNK),JUN; JUL; AUG; (UNK)
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,1000000,Route,6,Telemetry,B,A,,2,JUN; JUL; AUG; (UNK),JUN; JUL; AUG; (UNK)
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,1000000,Route,7,Telemetry,A,B,,2,JUN; JUL; AUG; (UNK),JUN; JUL; AUG; (UNK)
+CHMY,Green,6HF2BHWN_Fuller_etal_2008_Chmy,1000000,Route,8,Telemetry,B,A,,2,JUN; JUL; AUG; (UNK),JUN; JUL; AUG; (UNK)
+CHMY,Green,76V7QMUX_McClellan_and_Read_2010_Chmy,1000000,Route,1,Telemetry,A,B,,1,(UNK),(UNK)
+CHMY,Green,7KJ52Z8K_Naro-Maciel_etal_2018_Chmy,2000000,Connection,1,Mark-recapture,A,B,,1,(UNK),(UNK)
+CHMY,Green,7KJ52Z8K_Naro-Maciel_etal_2018_Chmy,2000000,Connection,2,Mark-recapture,A,C,,1,(UNK),(UNK)
+CHMY,Green,7KJ52Z8K_Naro-Maciel_etal_2018_Chmy,2000000,Route,3,Telemetry,A,D,,1,SEP,DEC
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,1000000,Route,1,Telemetry,A,B,,4,MAY; JUL,JUN; AUG
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,1000000,Route,2,Telemetry,A,C,,1,OCT,NOV
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,1000000,Route,3,Telemetry,A,D,,15,MAY; JUN,JUN
+CHMY,Green,7TBUR8F7_Putman_and_Mansfield_2015_Chmy,1000000,Route,4,Telemetry,A,E,,2,MAY,JUN
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,1,Telemetry,A,D,,1,AUG,SEP
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,2,Telemetry,D,E,,1,NOV,DEC
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,3,Telemetry,E,F,,1,(UNK),(UNK)
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,4,Telemetry,A,G,,1,OCT,NOV
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,5,Telemetry,G,H,,1,NOV,DEC
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,6,Telemetry,H,I,,1,FEB,FEB
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,7,Telemetry,I,H,,1,FEB,FEB
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,8,Telemetry,B,J,,1,MAR,MAR
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,9,Telemetry,J,K,,1,MAR,APR
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,10,Telemetry,K,L,,1,APR,APR
+CHMY,Green,879GMRSI_Balazs_etal_2015_Chmy,1000000,Route,11,Telemetry,L,M,,1,APR,MAY
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,1000000,Route,1,Telemetry,A,B,,1,APR,JUN
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,1000000,Route,2,Telemetry,A,C,,1,MAY,JUL
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,1000000,Route,3,Telemetry,A,D,,1,MAY,JUN
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,1000000,Route,4,Telemetry,A,E,,3,MAR; APR,APR; JUN
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,1000000,Route,5,Telemetry,A,F,,1,MAY,JUN
+CHMY,Green,8BSIC2WJ_Seminoff_etal_2008_Chmy,1000000,Route,6,Telemetry,A,G,,3,MAR; APR,APR; MAY
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,1,Telemetry,A,C,,1,JUL,JUL
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,2,Telemetry,C,A,,1,AUG,AUG
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,3,Telemetry,A,C,,1,AUG,AUG
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,4,Telemetry,C,A,,1,AUG,AUG
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,5,Telemetry,A,C,,1,AUG,AUG
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,6,Telemetry,C,A,,1,AUG,AUG
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,7,Telemetry,A,D,,1,AUG,AUG
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,8,Telemetry,B,E,,2,NOV,NOV
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,9,Telemetry,E,F,,1,FEB,FEB
+CHMY,Green,8FJPZCEE_Rees_etal_2013_Chmy,1000000,Route,10,Telemetry,F,E,,1,MAR,MAR
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,1000000,Connection,1,Telemetry,A,D,,3,JUL,(UNK)
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,1000000,Connection,2,Telemetry,B,D,,2,(UNK),(UNK)
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,1000000,Connection,3,Telemetry,B,E,,1,(UNK),(UNK)
+CHMY,Green,8HCQSW7J_Hart_etal_2013_Chmy,1000000,Connection,4,Telemetry,B,F,,2,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,1,Telemetry,A,E,,2,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,2,Telemetry,A,F,,6,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,3,Telemetry,A,G,,7,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,4,Telemetry,A,I,,1,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,5,Telemetry,A,J,,1,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,6,Telemetry,A,L,,1,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,7,Telemetry,A,M,,2,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,8,Telemetry,A,N,,1,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,9,Telemetry,B,F,,1,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,10,Telemetry,B,K,,2,(UNK),(UNK)
+CHMY,Green,8HTTVJJE_Stokes_etal_2015_Chmy,1000000,Route,11,Telemetry,B,M,,2,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,1,Telemetry,A,C,,4,MAR; MAY,MAR; MAY
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,2,Telemetry,C,A,,4,(UNK),JUN; (UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,3,Telemetry,A,C,,2,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,4,Telemetry,C,A,,2,(UNK),MAY; (UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,5,Telemetry,A,C,,1,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,6,Telemetry,C,A,,1,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,7,Telemetry,A,C,,1,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,8,Telemetry,C,A,,1,(UNK),JUN
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,9,Telemetry,A,D,,9,MAR; APR,MAR; APR
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,10,Telemetry,D,A,,9,(UNK),MAY; (UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,11,Telemetry,A,D,,7,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,12,Telemetry,D,A,,7,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,13,Telemetry,A,D,,7,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,14,Telemetry,D,A,,7,(UNK),MAY; JUN; JUL; (UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,15,Telemetry,A,D,,4,(UNK),(UNK)
+CHMY,Green,8NMU98K8_Chambault_etal_2016_Chmy,1000000,Route,16,Telemetry,D,A,,4,(UNK),MAY; JUN
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,1,Mark-recapture,A,B,,38,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,2,Mark-recapture,A,C,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,3,Mark-recapture,A,D,,104,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,4,Mark-recapture,A,E,,7,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,5,Mark-recapture,A,F,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,6,Mark-recapture,A,G,,32,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,7,Mark-recapture,A,H,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,8,Mark-recapture,A,I,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,9,Mark-recapture,A,J,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,10,Mark-recapture,A,K,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,11,Mark-recapture,A,L,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,12,Mark-recapture,A,M,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,13,Mark-recapture,A,N,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,14,Mark-recapture,A,O,,1,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,15,Mark-recapture,A,P,,45,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,16,Mark-recapture,A,Q,,3833,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,17,Mark-recapture,A,R,,354,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,18,Mark-recapture,A,S,,138,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,19,Mark-recapture,A,T,,73,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Connection,20,Mark-recapture,A,U,,30,(UNK),(UNK)
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Route,21,Telemetry,V,Y,,1,SEP,SEP
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Route,22,Telemetry,V,X,,1,SEP,SEP
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Route,23,Telemetry,W,X,,2,OCT,OCT
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Route,24,Telemetry,X,Y,,3,OCT; NOV,NOV
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Route,25,Telemetry,W,Y,,3,SEP; OCT,OCT
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Route,26,Telemetry,W,Z,,1,SEP,OCT
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Route,27,Telemetry,W,AA,,1,AUG,AUG
+CHMY,Green,8Z75DBBC_Troeng_etal_2005_CHMY,1000000,Route,28,Telemetry,W,AB,,1,AUG,SEP
+CHMY,Green,95CLUNAR_Jang_etal_2018_Chmy,2000000,Route,1,Telemetry,A,B,,1,AUG,AUG
+CHMY,Green,95CLUNAR_Jang_etal_2018_Chmy,2000000,Route,2,Telemetry,A,C,,1,OCT,NOV
+CHMY,Green,95CLUNAR_Jang_etal_2018_Chmy,2000000,Route,3,Telemetry,C,D,,1,NOV,DEC
+CHMY,Green,95CLUNAR_Jang_etal_2018_Chmy,2000000,Route,4,Telemetry,A,D,,1,OCT,OCT
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,1,Telemetry,B,F,,3,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,2,Telemetry,A,F,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,3,Telemetry,A,G,,7,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,4,Telemetry,C,G,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,5,Telemetry,D,G,,2,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,6,Telemetry,E,G,,2,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,7,Telemetry,A,H,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,8,Telemetry,D,H,,2,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,9,Telemetry,A,I,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,10,Telemetry,D,I,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,11,Telemetry,C,J,,2,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,12,Telemetry,D,K,,5,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,13,Telemetry,E,K,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,14,Telemetry,A,L,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,15,Telemetry,C,L,,3,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,16,Telemetry,D,L,,4,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,17,Telemetry,E,L,,6,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,18,Telemetry,D,M,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,19,Telemetry,C,N,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,20,Telemetry,C,O,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,21,Telemetry,C,P,,2,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,22,Telemetry,D,P,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,23,Telemetry,A,Q,,1,(UNK),(UNK)
+CHMY,Green,9CEB2PJN_Ferreira_etal_2021_Chmy,2000000,Route,24,Telemetry,E,O,,1,(UNK),(UNK)
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,1000000,Route,1,Telemetry,A,C,,1,SEP,SEP
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,1000000,Route,2,Telemetry,A,D,,1,MAR,MAR
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,1000000,Route,3,Telemetry,B,E,,1,JUN,JUN
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,1000000,Route,4,Telemetry,E,B,,1,JUN,JUN
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,1000000,Route,5,Telemetry,B,E,,1,JUN,JUL
+CHMY,Green,9P5DMQMT_Kittiwattanawong_etal_2002_Chmy,1000000,Route,6,Telemetry,B,F,,1,SEP,SEP
+CHMY,Green,AA8D24MB_Blanco_etal_2012_Chmy,1000000,Route,1,Telemetry,A,B,,1,AUG,SEP
+CHMY,Green,AA8D24MB_Blanco_etal_2012_Chmy,1000000,Route,2,Telemetry,A,C,,3,JAN; OCT,FEB; NOV
+CHMY,Green,AA8D24MB_Blanco_etal_2012_Chmy,1000000,Route,3,Telemetry,A,D,,4,SEP; OCT; NOV,SEP; OCT; NOV
+CHMY,Green,AMV4ES3Z_Chambault_etal_2020_Chmy,2000000,Route,1,Telemetry,A,B,,2,JAN; FEB,(UNK)
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,2000000,Route,1,Telemetry,A,B,,2,FEB; MAR,(UNK)
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,2000000,Route,2,Telemetry,B,C,,2,(UNK),MAR; JUN
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,2000000,Route,3,Telemetry,A,D,,6,JAN; FEB; (UNK),(UNK)
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,2000000,Route,4,Telemetry,D,E,,5,(UNK),FEB; MAR; (UNK)
+CHMY,Green,B36IUZ6K_Mettler_etal_2020_Chmy,2000000,Route,5,Telemetry,A,D,,2,(UNK),(UNK)
+CHMY,Green,BZBXKR7W_Balazs_etal_1994_Chmy,1000000,Route,1,Telemetry,A,C,,2,SEP,SEP
+CHMY,Green,BZBXKR7W_Balazs_etal_1994_Chmy,1000000,Route,2,Telemetry,B,D,,1,JAN,FEB
+CHMY,Green,BZBXKR7W_Balazs_etal_1994_Chmy,1000000,Route,3,Telemetry,B,E,,2,DEC,JAN; FEB
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,1000000,Connection,1,Mark-recapture,B,C,,2,AUG; SEP; OCT; NOV; (UNK),(UNK)
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,1000000,Connection,2,Mark-recapture,B,D,,11,AUG; SEP; OCT; NOV; (UNK),(UNK)
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,1000000,Route,3,Telemetry,B,E,,2,SEP,OCT
+CHMY,Green,CQQRWU9I_Fukuoka_etal_2015_Chmy,1000000,Route,4,Telemetry,B,F,,1,SEP,NOV
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,1000000,Connection,1,Telemetry,A,B,,1,DEC,DEC
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,1000000,Connection,2,Telemetry,A,C,,13,NOV; DEC,NOV; DEC
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,1000000,Connection,3,Telemetry,A,D,,4,NOV; DEC,NOV; DEC
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,1000000,Connection,4,Telemetry,A,E,,1,NOV,NOV
+CHMY,Green,CR2RRN6G_Kennett_etal_2004_Chmy,1000000,Connection,5,Telemetry,A,F,,1,NOV,NOV
+CHMY,Green,CUJU6FWX_Girard_etal_2006_Chmy,1000000,Route,1,Telemetry,B,D,,2,NOV,DEC
+CHMY,Green,CUJU6FWX_Girard_etal_2006_Chmy,1000000,Route,2,Telemetry,C,D,,1,NOV,JAN
+CHMY,Green,D3L5XMN3_Velez-Rubio_etal_2018_Chmy,2000000,Route,1,Telemetry,A,B,,2,MAY,JUN
+CHMY,Green,D3L5XMN3_Velez-Rubio_etal_2018_Chmy,2000000,Route,2,Telemetry,B,A,,2,OCT,OCT
+CHMY,Green,D3L5XMN3_Velez-Rubio_etal_2018_Chmy,2000000,Route,3,Telemetry,A,C,,1,JAN,MAR
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,1000000,Connection,5,Isotope,F,E,,61,,
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,1000000,Connection,6,Isotope,G,E,,28,,
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,1000000,Route,1,Telemetry,A,C,,1,AUG,SEP
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,1000000,Route,2,Telemetry,B,C,,1,AUG,SEP
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,1000000,Route,3,Telemetry,B,D,,1,AUG,SEP
+CHMY,Green,DHFCFT5J_Hatase_etal_2006_Chmy,1000000,Route,4,Telemetry,B,E,,1,AUG,SEP
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,1000000,Connection,1,Mark-recapture,A,E,,1,MAR,MAR
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,1000000,Connection,2,Mark-recapture,D,F,,1,JUN,MAR
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,1000000,Connection,3,Mark-recapture,B,G,,1,APR,FEB
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,1000000,Route,4,Telemetry,H,J,,1,DEC,JAN
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,1000000,Route,5,Telemetry,I,J,,1,NOV,FEB
+CHMY,Green,E24VR9UD_Klain_etal_2007_Chmy,1000000,Route,6,Telemetry,H,K,,1,SEP,OCT
+CHMY,Green,EDRW5RGF_Chambault_etal_2015_Chmy,1000000,Route,1,Telemetry,C,D,,1,MAY,JUN
+CHMY,Green,EDRW5RGF_Chambault_etal_2015_Chmy,1000000,Route,2,Telemetry,C,E,,18,APR; MAY; JUN,JUN; JUL; AUG; SEP
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,2,Mark-recapture,D,E,,56,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,3,Mark-recapture,D,F,,17,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,4,Mark-recapture,D,G,,6,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,5,Mark-recapture,D,H,,2,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,6,Mark-recapture,D,I,,1,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,7,Mark-recapture,D,J,,2,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,8,Mark-recapture,D,K,,1,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,9,Mark-recapture,D,L,,1,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,10,Mark-recapture,D,M,,2,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,11,Mark-recapture,D,N,,1,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,12,Mark-recapture,O,E,,10,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,13,Mark-recapture,O,P,,1,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,14,Mark-recapture,Q,E,,24,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Connection,15,Mark-recapture,Q,R,,1,(UNK),(UNK)
+CHMY,Green,EQ48D56S_Meylan_etal_2011_Chmy,1000000,Route,1,Telemetry,A,C,,1,AUG,SEP
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,1000000,Connection,1,Telemetry,A,B,,1,(UNK),(UNK)
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,1000000,Connection,2,Telemetry,A,C,,1,(UNK),(UNK)
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,1000000,Connection,3,Telemetry,C,D,,1,(UNK),(UNK)
+CHMY,Green,F2M2JPPZ_Weber_etal_2013_Chmy,1000000,Connection,4,Telemetry,D,E,,1,(UNK),(UNK)
+CHMY,Green,FDZBYLN2_Mansfield_etal_2021_Chmy,2000000,Route,1,Telemetry,A,B,,21,(UNK),(UNK)
+CHMY,Green,FVBIP2AV_Hays_etal_2001_Chmy,1000000,Route,1,Telemetry,A,B,,5,MAY; JUN; JUL,MAY; JUN; JUL; AUG
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,1000000,Route,1,Telemetry,A,B,,1,AUG,OCT
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,1000000,Route,2,Telemetry,A,C,,1,SEP,SEP
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,1000000,Route,3,Telemetry,A,D,,1,AUG,SEP
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,1000000,Route,4,Telemetry,A,E,,1,SEP,SEP
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,1000000,Route,5,Telemetry,A,F,,1,SEP,OCT
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,1000000,Route,6,Telemetry,A,G,,1,OCT,NOV
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,1000000,Route,7,Telemetry,A,H,,1,AUG,SEP
+CHMY,Green,FVKWFI5F_Cheng_2000_Chmy2,1000000,Route,8,Telemetry,A,I,,1,SEP,OCT
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Connection,4,Mark-recapture,G,F,,2,(UNK),JUN
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Connection,5,Mark-recapture,H,F,,1,(UNK),JUN
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Connection,6,Mark-recapture,I,F,,1,(UNK),JUN
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Connection,7,Mark-recapture,J,F,,5,(UNK),JAN; FEB; JUN
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Connection,8,Mark-recapture,K,F,,3,(UNK),FEB; JUN
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Connection,9,Mark-recapture,L,F,,2,(UNK),FEB
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Route,1,Telemetry,B,C,,1,JUN,JUL
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Route,2,Telemetry,B,D,,1,JUN,AUG
+CHMY,Green,H282V6AX_Adnyana_etal_2008_Chmy,1000000,Route,3,Telemetry,B,E,,1,JUN,JUL
+CHMY,Green,HASNPCUP_Hays_etal_2021_Chmy,2000000,Route,1,Telemetry,A,B,,2,(UNK),(UNK)
+CHMY,Green,HASNPCUP_Hays_etal_2021_Chmy,2000000,Route,2,Telemetry,A,C,,1,(UNK),(UNK)
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,1000000,Route,1,Telemetry,A,B,,3,JUN,OCT
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,1000000,Route,2,Telemetry,A,C,,4,JUN,OCT
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,1000000,Route,3,Telemetry,A,D,,1,JUN,OCT
+CHMY,Green,HVQZZTMC_Broderick_etal_2007_Chmy,1000000,Route,4,Telemetry,A,E,,2,JUN,OCT
+CHMY,Green,ICQWZR9F_Swimmer_etal_2006_Chmy,1000000,Connection,1,Telemetry,A,B,,1,SEP,OCT
+CHMY,Green,IH4QEQ7N_Godley_etal_2010_Chmy,1000000,Connection,3,Genetic,,,A; B; C; D; G; I; J; K; L; P; Q; R; S; T; Z,6,,
+CHMY,Green,IH4QEQ7N_Godley_etal_2010_Chmy,1000000,Route,1,Telemetry,A,B,,4,(UNK),(UNK)
+CHMY,Green,IH4QEQ7N_Godley_etal_2010_Chmy,1000000,Route,2,Telemetry,A,C,,4,(UNK),(UNK)
+CHMY,Green,IN4J22HB_Hays_etal_2001_Chmy,1000000,Connection,1,Telemetry,A,B,,2,FEB,FEB; MAR
+CHMY,Green,IN4J22HB_Hays_etal_2001_Chmy,1000000,Connection,2,Telemetry,B,C,,1,MAR,APR
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,1000000,Route,1,Telemetry,A,B,,16,APR; MAY; JUN,JUN; JUL; AUG; SEP; OCT; (UNK)
+CHMY,Green,IPG94ZAT_Baudouin_etal_2015_Chmy,1000000,Route,2,Telemetry,B,C,,1,(UNK),(UNK)
+CHMY,Green,ISLNBR9N_Hays_etal_1999_Chmy,2000000,Route,1,Telemetry,A,B,,5,(UNK),(UNK)
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,1000000,Route,1,Telemetry,A,B,,2,OCT,MAR; DEC
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,1000000,Route,2,Telemetry,A,C,,4,OCT,JAN; FEB; NOV; DEC
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,1000000,Route,3,Telemetry,A,D,,1,OCT,MAR
+CHMY,Green,J64IRA38_Christiansen_etal_2017_Chmy,1000000,Route,4,Telemetry,A,E,,1,OCT,NOV
+CHMY,Green,JK5M9R6H_Papi_etal_1995_Chmy,1000000,Route,1,Telemetry,A,B,,1,SEP,OCT
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,1000000,Route,1,Telemetry,A,B,,4,AUG,JAN; MAR; NOV; DEC
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,1000000,Route,2,Telemetry,A,C,,1,AUG,APR
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,1000000,Route,3,Telemetry,A,D,,1,AUG,NOV
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,1000000,Route,4,Telemetry,A,E,,1,AUG,APR
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,1000000,Route,5,Telemetry,A,F,,1,AUG,JAN
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,1000000,Route,6,Telemetry,A,G,,1,AUG,MAY
+CHMY,Green,JSVU23EX_Kolinski_etal_2014_Chmy,1000000,Route,7,Telemetry,A,H,,3,AUG,MAR; SEP
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,1000000,Route,1,Telemetry,B,C,,1,SEP,MAR
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,1000000,Route,2,Telemetry,B,D,,1,SEP,DEC
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,1000000,Route,3,Telemetry,B,E,,1,SEP,FEB
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,1000000,Route,4,Telemetry,B,F,,1,SEP,DEC
+CHMY,Green,KBJEDA38_Parker_etal_2015_Chmy,1000000,Route,5,Telemetry,B,G,,1,SEP,AUG
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,1000000,Route,1,Telemetry,B,C,,1,APR,MAY
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,1000000,Route,2,Telemetry,B,D,,1,JUL,AUG
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,1000000,Route,3,Telemetry,B,E,,1,AUG,SEP
+CHMY,Green,M2B4TXP2_Garnier_etal_2012_Chmy,1000000,Route,4,Telemetry,B,F,,1,MAY,JUN
+CHMY,Green,MBFKPQ38_Esteban_etal_2015_Chmy,2000000,Route,1,Telemetry,A,B,,1,SEP,(UNK)
+CHMY,Green,N6BXA3PY_Levy_etal_2017_chmy,2000000,Route,1,Telemetry,A,B,,2,JUN,JUL
+CHMY,Green,N6BXA3PY_Levy_etal_2017_chmy,2000000,Route,2,Telemetry,A,C,,2,JUL; AUG,(UNK)
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,1000000,Route,1,Telemetry,B,C,,1,JAN,FEB
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,1000000,Route,2,Telemetry,B,D,,3,JAN; DEC,JAN; FEB
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,1000000,Route,3,Telemetry,B,E,,1,JAN,MAR
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,1000000,Route,4,Telemetry,B,F,,1,DEC,JAN
+CHMY,Green,N7A464TT_Craig_etal_2004_Chmy,1000000,Route,5,Telemetry,B,G,,1,JAN,FEB
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,1000000,Route,1,Telemetry,A,C,,1,OCT,DEC
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,1000000,Route,2,Telemetry,A,E,,1,SEP,OCT
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,1000000,Route,3,Telemetry,A,F,,1,OCT,NOV
+CHMY,Green,P3RIMDBZ_Becking_etal_2016_Chmy,1000000,Route,4,Telemetry,B,D,,1,JUL,NOV
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,1000000,Connection,4,Genetic,,,C; D; E,20,,
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,1000000,Connection,5,Genetic,,,A; B,14,,
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,1000000,Route,1,Telemetry,A,B,,2,SEP,SEP; OCT
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,1000000,Route,2,Telemetry,A,C,,1,OCT,OCT
+CHMY,Green,P8GEJRWQ_Bourjea_etal_2015_Chmy,1000000,Route,3,Telemetry,A,D,,1,AUG,SEP
+CHMY,Green,PISNU2C5_Godley_etal_2003_Chmy,1000000,Route,1,Telemetry,A,B,,1,JUL,JUL
+CHMY,Green,PISNU2C5_Godley_etal_2003_Chmy,1000000,Route,2,Telemetry,A,C,,1,APR,APR
+CHMY,Green,PW7NPFTV_Godley_etal_2002_Chmy,1000000,Route,1,Telemetry,A,B,,1,AUG,AUG
+CHMY,Green,PW7NPFTV_Godley_etal_2002_Chmy,1000000,Route,2,Telemetry,A,C,,5,JUL,JUL; AUG
+CHMY,Green,PW7NPFTV_Godley_etal_2002_Chmy,1000000,Route,3,Telemetry,C,D,,5,JUL; AUG,JUL; AUG
+CHMY,Green,Q2E9R5RS_Waayers_etal_2011_Chmy,1000000,Route,1,Telemetry,A,B,,10,FEB; DEC,FEB; DEC
+CHMY,Green,QP99JZBA_Enstipp_etal_2016_Chmy,1000000,Connection,1,Mark-recapture,C,B,,1,JUL,JUL
+CHMY,Green,QSW23ZTJ_Hays_etal_2001_Chmy,1000000,Route,1,Telemetry,A,B,,12,MAY; JUN; (UNK),(UNK)
+CHMY,Green,RA4TMJME_Whiting_etal_2008_Chmy,1000000,Route,1,Telemetry,A,B,,6,FEB; MAR,FEB; MAR; APR
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,2000000,Route,1,Telemetry,A,B,,7,(UNK),(UNK)
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,2000000,Route,2,Telemetry,A,C,,3,(UNK),(UNK)
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,2000000,Route,3,Telemetry,A,D,,6,(UNK),(UNK)
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,2000000,Route,4,Telemetry,A,E,,7,(UNK),(UNK)
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,2000000,Route,5,Telemetry,A,F,,1,(UNK),(UNK)
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,2000000,Route,6,Telemetry,A,G,,2,(UNK),(UNK)
+CHMY,Green,RDUCUS8W_Bradshaw_etal_2017_CHMY,2000000,Route,7,Telemetry,A,H,,2,(UNK),(UNK)
+CHMY,Green,RDUSPBLB_Arai_2004_Chmy,2000000,Route,1,Telemetry,A,B,,5,(UNK),(UNK)
+CHMY,Green,RDUSPBLB_Arai_2004_Chmy,2000000,Route,2,Telemetry,C,D,,2,(UNK),(UNK)
+CHMY,Green,RDUSPBLB_Arai_2004_Chmy,2000000,Route,3,Telemetry,C,E,,4,(UNK),(UNK)
+CHMY,Green,RU8Z4BMU_Rees_etal_2008_Chmy,1000000,Route,1,Telemetry,A,B,,1,JUL,AUG
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,2000000,Route,1,Telemetry,A,B,,10,(UNK),(UNK)
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,2000000,Route,2,Telemetry,B,A,,10,(UNK),(UNK)
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,2000000,Route,3,Telemetry,A,C,,2,(UNK),(UNK)
+CHMY,Green,SKJGR6CU_Sloan_etal_2022_Chmy,2000000,Route,4,Telemetry,A,D,,1,AUG,(UNK)
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,1000000,Connection,1,Telemetry,B,A,,1,AUG,SEP
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,1000000,Route,2,Telemetry,A,C,,1,SEP,(UNK)
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,1000000,Route,3,Telemetry,A,D,,1,SEP,(UNK)
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,1000000,Route,4,Telemetry,A,E,,1,SEP,(UNK)
+CHMY,Green,T38QA2PW_Liew_etal_1995_Chmy,1000000,Route,5,Telemetry,A,F,,1,SEP,OCT
+CHMY,Green,THF2HFF4_Nichols_2003_Chmy,1000000,Connection,2,Genetic,,,A; B,Unk,,
+CHMY,Green,THF2HFF4_Nichols_2003_Chmy,1000000,Connection,3,Genetic,,,A; C,Unk,,
+CHMY,Green,THF2HFF4_Nichols_2003_Chmy,1000000,Route,1,Telemetry,A,B,,3,(UNK),(UNK)
+CHMY,Green,U4CPAKEV_Mettler_etal_2019_Chmy,2000000,Route,1,Telemetry,A,B,,4,(UNK),(UNK)
+CHMY,Green,U4CPAKEV_Mettler_etal_2019_Chmy,2000000,Route,2,Telemetry,B,C,,3,(UNK),(UNK)
+CHMY,Green,U4CPAKEV_Mettler_etal_2019_Chmy,2000000,Route,3,Telemetry,A,C,,2,(UNK),(UNK)
+CHMY,Green,U7R5BHGZ_Beal_etal_2022_Chmy,2000000,Route,1,Telemetry,A,B,,5,JUL; AUG,(UNK)
+CHMY,Green,U7R5BHGZ_Beal_etal_2022_Chmy,2000000,Route,2,Telemetry,A,C,,12,JAN; JUL; NOV; DEC,(UNK)
+CHMY,Green,U7R5BHGZ_Beal_etal_2022_Chmy,2000000,Route,3,Telemetry,A,D,,1,FEB,(UNK)
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,1000000,Route,1,Telemetry,A,B,,1,AUG,AUG
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,1000000,Route,2,Telemetry,A,C,,1,SEP,SEP
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,1000000,Route,3,Telemetry,C,D,,1,JAN,FEB
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,1000000,Route,4,Telemetry,A,E,,1,AUG,AUG
+CHMY,Green,UMGA5STX_Attum_etal_2014_Chmy,1000000,Route,5,Telemetry,A,F,,1,JUL,SEP
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,2000000,Route,1,Telemetry,A,B,,5,JUL,(UNK)
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,2000000,Route,2,Telemetry,B,C,,1,(UNK),(UNK)
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,2000000,Route,3,Telemetry,B,E,,1,(UNK),(UNK)
+CHMY,Green,UR36R563_Snape_etal_2022_Chmy,2000000,Route,4,Telemetry,A,D,,14,JUL; AUG,(UNK)
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Connection,3,Telemetry,A,H,,1,OCT,OCT
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,1,Telemetry,A,F,,1,JUN,JUN
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,2,Telemetry,A,G,,1,SEP,SEP
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,4,Telemetry,I,J,,1,MAY,JUN
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,5,Telemetry,C,D,,1,JUN,JUN
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,6,Telemetry,B,E,,2,JUN; JUL,AUG; SEP
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,7,Telemetry,B,K,,6,MAY; JUL; AUG,MAY; JUN; AUG; SEP
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,8,Telemetry,K,I,,1,MAY,JUN
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,9,Telemetry,K,L,,2,JUN; JUL,JUL
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,10,Telemetry,K,E,,1,JUN,JUN
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,11,Telemetry,B,M,,2,MAY; JUL,JUN; AUG
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,12,Telemetry,B,I,,1,NOV,DEC
+CHMY,Green,USIFFJZZ_Ng_etal_2018_Chmy,2000000,Route,13,Telemetry,B,N,,1,NOV,MAR
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,1000000,Route,1,Telemetry,A,E,,1,MAR,MAY
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,1000000,Route,2,Telemetry,A,F,,1,OCT,MAR
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,1000000,Route,3,Telemetry,A,G,,2,AUG; DEC,JAN; DEC
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,1000000,Route,4,Telemetry,D,G,,1,APR,APR
+CHMY,Green,UX2A229E_Pelletier_etal_2003_Chmy,1000000,Route,5,Telemetry,C,H,,1,MAY,JUL
+CHMY,Green,VBP7TIFZ_Snoddy_and_Williard_2010_Chmy,1000000,Route,1,Telemetry,A,B,,1,JUN,JUN
+CHMY,Green,VBP7TIFZ_Snoddy_and_Williard_2010_Chmy,1000000,Route,2,Telemetry,A,C,,1,OCT,NOV
+CHMY,Green,VMWG3NVP_Cheng_and_Wang_2009_Chmy,1000000,Route,1,Telemetry,A,B,,2,AUG,SEP
+CHMY,Green,VMWG3NVP_Cheng_and_Wang_2009_Chmy,1000000,Route,2,Telemetry,A,C,,2,AUG,SEP
+CHMY,Green,VMWG3NVP_Cheng_and_Wang_2009_Chmy,1000000,Route,3,Telemetry,A,D,,2,AUG,SEP
+CHMY,Green,WVZHZNDW_Yasuda_and_Arai_2005_Chmy,1000000,Route,1,Telemetry,A,B,,1,JAN,JAN
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,1000000,Route,1,Telemetry,A,E,,1,AUG,OCT
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,1000000,Route,2,Telemetry,C,F,,1,SEP,OCT
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,1000000,Route,3,Telemetry,A,G,,1,AUG,SEP
+CHMY,Green,WXBJ52P2_van_de_Merwe_etal_2009_Chmy,1000000,Route,4,Telemetry,D,H,,1,SEP,SEP
+CHMY,Green,ZMN7IRSJ_Hays_etal_2002_Chmy,2000000,Route,1,Telemetry,A,B,,1,(UNK),AUG
+CHMY,Green,ZMN7IRSJ_Hays_etal_2002_Chmy,2000000,Route,2,Telemetry,B,C,,1,AUG,AUG
+CHMY,Green,ZMN7IRSJ_Hays_etal_2002_Chmy,2000000,Route,3,Telemetry,A,C,,4,(UNK),(UNK)
+CHMY,Green,ZRF85WW9_Turkecan_and_Yerli_2011_Chmy,1000000,Route,1,Telemetry,A,B,,1,JUL,OCT
+CHMY,Green,ZRF85WW9_Turkecan_and_Yerli_2011_Chmy,1000000,Route,2,Telemetry,A,C,,1,JUL,JUL
